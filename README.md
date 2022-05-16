@@ -58,7 +58,7 @@ https://ccaf.io/cbeci/mining_map
 #
 https://digiconomist.net/bitcoin-energy-consumption
 #
-Bitcoin (and other types of crypto, do stacked cvs)
+Bitcoin (and other types of crypto, do stacked csv)
 #
 #### Datasetcsv file URL
 https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory?resource=download&select=coin_Litecoin.csv
