@@ -44,6 +44,9 @@ add glossary, references
 #
 ![bit](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinenergy.PNG)
 #
+Bitcoin prices are highly volatile.
+#
+![yah](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinyahoo.png)
 #### Description of the source of data
 2 datasources needed, environmental and  financial
 #
