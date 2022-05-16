@@ -47,7 +47,7 @@ Some people wonder if cryptocurrencies will disrupt the financial system, while 
 #
 #### Environmental sources pertaining to energy usage
 #
-![carbon](https://github.com/kylemcdonald/ethereum-emissions)
+[carbon](https://github.com/kylemcdonald/ethereum-emissions)
 #
 ![total](https://www.eia.gov/totalenergy/data/monthly/)
 #
@@ -55,9 +55,9 @@ Questions they hope to answer with the data
 #
 Bitcoin energy usage (Cambridge study)
 #
-![usage](https://ccaf.io/cbeci/mining_map)
+[usage](https://ccaf.io/cbeci/mining_map)
 #
-![en](https://digiconomist.net/bitcoin-energy-consumption)
+[en](https://digiconomist.net/bitcoin-energy-consumption)
 #
 Bitcoin (and other types of crypto, do stacked cvs)
 #
@@ -104,7 +104,7 @@ In addition to using a Flask template, we will also integrate D3.js for a fully 
 
 #### Github Branch location (only 1, since I am a solo team)
 
-![](https://github.com/jcsargis00/NFT-Research)
+[](https://github.com/jcsargis00/NFT-Research)
 #
 Takes in data from the provisional database
 Outputs label for input data
