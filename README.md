@@ -40,7 +40,7 @@ As cryptocurrencies rise in price, the problem isn't going away. Right now, Digi
 Other cryptocurrencies that are structured similarly to bitcoin use energy for mining, too. Bitcoin is the most popular and best known cryptocurrency, but it is not unique in its energy needs.
 #
 Some people wonder if cryptocurrencies will disrupt the financial system, while others wonder if they will break the environment in the process."  
-<need to add glossary, references>
+add glossary, references
 #
 #### Description of the source of data
 2 datasources needed, environmental and  financial
@@ -90,7 +90,7 @@ How does this model work? TBD
 #### Database Storage
 * Mongo or DynamoDb will be the database.
 * Flask will be used to display the data.
-* There will be 2 database tables, one for energy consumptiona and one for price fluctuation.
+* There will be 2 database tables, one for energy consumption and one for price fluctuation.
 The tables will include fields for energy usage and price changes
 
 #### Machine Learning
