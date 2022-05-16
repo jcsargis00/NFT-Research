@@ -93,6 +93,7 @@ How does this model work? TBD
 * Flask will be used to display the data.
 * There will be 2 database tables, one for energy consumption and one for price fluctuation.
 The tables will include fields for energy usage and price changes
+* use Python to download the data from the Coinbase web site
 
 Example of fields of crypto pricing  model
 Symbol - The symbol for which the timeseries data refers
