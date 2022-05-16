@@ -53,10 +53,13 @@ Some people wonder if cryptocurrencies will disrupt the financial system, while 
 Questions they hope to answer with the data
 #
 Bitcoin energy usage (Cambridge study)
+#
 ![usage](https://ccaf.io/cbeci/mining_map)
 #
-![](https://digiconomist.net/bitcoin-energy-consumption)
+![en](https://digiconomist.net/bitcoin-energy-consumption)
+#
 Bitcoin (and other types of crypto, do stacked cvs)
+#
 ![dataset](https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory?resource=download&select=coin_Litecoin.csv)
 #
 Github
