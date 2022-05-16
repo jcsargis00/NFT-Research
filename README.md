@@ -47,6 +47,9 @@ add glossary, references
 Bitcoin prices are highly volatile.
 #
 ![yah](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinyahoo.png)
+#
+How is energy consumed by Bitcoin calculated?
+![proc](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinprocess.PNG)
 #### Description of the source of data
 2 datasources needed, environmental and  financial
 #
