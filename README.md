@@ -60,7 +60,8 @@ Bitcoin energy usage (Cambridge study)
 #
 Bitcoin (and other types of crypto, do stacked cvs)
 #
-![dataset](https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory?resource=download&select=coin_Litecoin.csv)
+#### Datasetcsv file URL
+https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory?resource=download&select=coin_Litecoin.csv
 #
 Github
 Description of the communication protocols
@@ -86,27 +87,25 @@ Once you're set up in your repository and using your branch, create a document d
 By the live session, submit a list of technologies you and your team intend to use for the project. Make sure to explain which technology is being used where (e.g., Pandas for data cleaning, Postgres for storage, etc.).
 ## Technologies Used
 #### Data Cleaning and Analysis
-Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
+* Data Preprocessing  will involve selection, transformation,  and scaling of data.  Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
 
 #### Database Storage
 Mongo or DynamoDb will be the database.
 Flask will be used to display the data.
+There will be 2 database tables, one for energy consumptiona and one for price fluctuation.
+The fields will include
 
 #### Machine Learning
-SciKitLearn is the ML library to create a classifier. 
+* SciKitLearn is the ML library to create a classifier. 
+* KMeans clustering algorithm was used to group similar currencies into classes.
+* hvPlot and  Plotly were used to create visualizaions in 2D and 3D as scatter plots.
 
 #### Dashboard
-In addition to using a Flask template, we will also integrate D3.js for a fully functioning and interactive dashboard. Aleda.store
+In addition to using a Flask template, we will also integrate D3.js for a fully functioning and interactive dashboard. Aleda.store  A Tutorial and  glossary of NFT and cryptocurrency terminology will be included, with links to references.
 
 #### Github Branch location (only 1, since I am a solo team)
 
-
+![](https://github.com/jcsargis00/NFT-Research)
 
 Takes in data from the provisional database
 Outputs label for input data
-
-Database Integration (25 points)
-Team members will be expected to present a provisional database that stands in for the final database and accomplishes the following:
-
-Sample data that mimics the expected final database structure or schema
-Draft machine learning model is connected to the provisional database
