@@ -94,6 +94,17 @@ How does this model work? TBD
 * There will be 2 database tables, one for energy consumption and one for price fluctuation.
 The tables will include fields for energy usage and price changes
 
+Example of fields of crypto pricing  model
+Symbol - The symbol for which the timeseries data refers
+Open - This is the opening price of the time period
+High - This is the highest price of the time period
+Low - This is the lowest price of the time period
+Close - This is the closing price of the time period
+Volume (Crypto) - This is the volume in the transacted Ccy. Ie. For BTC/USD, this is in BTC amount
+Volume Base Ccy - This is the volume in the base/converted ccy. Ie. For BTC/USD, this is in USD amount
+
+Individual currencies will be stacked in the table in order to combine the plots on one chart.
+
 #### Machine Learning
 * SciKitLearn is the ML library to create a classifier. 
 * KMeans clustering algorithm to group similar currencies into classes.
