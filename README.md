@@ -96,20 +96,13 @@ The tables will include fields for energy usage and price changes
 * use Python to download the data from the Coinbase web site
 
 Example of fields of crypto pricing  model
-#
-Symbol - The symbol for which the timeseries data refers
-#
-Open - This is the opening price of the time period
-#
-High - This is the highest price of the time period
-#
-Low - This is the lowest price of the time period
-#
-Close - This is the closing price of the time period
-#
-Volume (Crypto) - This is the volume in the transacted Ccy. Ie. For BTC/USD, this is in BTC amount
-#
-Volume Base Ccy - This is the volume in the base/converted ccy. Ie. For BTC/USD, this is in USD amount
+- Symbol - The symbol for which the timeseries data refers
+- Open - This is the opening price of the time period
+- High - This is the highest price of the time period
+- Low - This is the lowest price of the time period
+- Close - This is the closing price of the time period
+- Volume (Crypto) - This is the volume in the transacted Ccy. Ie. For BTC/USD, this is in BTC amount
+- Volume Base Ccy - This is the volume in the base/converted ccy. Ie. For BTC/USD, this is in USD amount
 #
 Individual currencies will be stacked in the table in order to combine the plots on one chart.
 #
