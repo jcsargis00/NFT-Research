@@ -50,8 +50,7 @@ Some people wonder if cryptocurrencies will disrupt the financial system, while 
 https://github.com/kylemcdonald/ethereum-emissions
 #
 https://www.eia.gov/totalenergy/data/monthly/
-#
-Questions they hope to answer with the data
+
 #
 Bitcoin energy usage (Cambridge study)
 #
@@ -92,7 +91,7 @@ How does this model work? TBD
 * Mongo or DynamoDb will be the database.
 * Flask will be used to display the data.
 * There will be 2 database tables, one for energy consumptiona and one for price fluctuation.
-The fields will include
+The tables will include fields for energy usage and price changes
 
 #### Machine Learning
 * SciKitLearn is the ML library to create a classifier. 
