@@ -47,17 +47,17 @@ Some people wonder if cryptocurrencies will disrupt the financial system, while 
 #
 #### Environmental sources pertaining to energy usage
 #
-![](https://github.com/kylemcdonald/ethereum-emissions)
+https://github.com/kylemcdonald/ethereum-emissions
 #
-![total](https://www.eia.gov/totalenergy/data/monthly/)
+https://www.eia.gov/totalenergy/data/monthly/
 #
 Questions they hope to answer with the data
 #
 Bitcoin energy usage (Cambridge study)
 #
-[usage](https://ccaf.io/cbeci/mining_map)
+https://ccaf.io/cbeci/mining_map
 #
-[en](https://digiconomist.net/bitcoin-energy-consumption)
+https://digiconomist.net/bitcoin-energy-consumption
 #
 Bitcoin (and other types of crypto, do stacked cvs)
 #
