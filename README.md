@@ -47,7 +47,7 @@ Some people wonder if cryptocurrencies will disrupt the financial system, while 
 #
 #### Environmental sources pertaining to energy usage
 #
-[carbon](https://github.com/kylemcdonald/ethereum-emissions)
+![](https://github.com/kylemcdonald/ethereum-emissions)
 #
 ![total](https://www.eia.gov/totalenergy/data/monthly/)
 #
