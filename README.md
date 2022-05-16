@@ -85,6 +85,14 @@ How does this model work? TBD
 * X role - selection of technology for the project. 
 #
 ## Technologies Used
+- Python
+- Pandas
+- Numpy
+- Tensorflow
+- SciKitLearn
+- KMeans
+- Mongo or DynamoDB
+#
 #### Data Cleaning and Analysis
 * Data Preprocessing  will involve selection, transformation,  and scaling of data.  Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
 
