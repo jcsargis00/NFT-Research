@@ -112,7 +112,7 @@ Individual currencies will be stacked in the table in order to combine the plots
 * hvPlot and  Plotly  to create visualizaions in 2D and 3D as scatter plots.
 
 #### Dashboard
-In addition to using a Flask template,  D3.js will be integrated for a fully functioning and interactive dashboard. Aleda.store will show an alternative solution. A Tutorial and  glossary of NFT and cryptocurrency terminology will be included, with links to references.
+In addition to using a Flask template,  D3.js will be integrated for a fully functioning and interactive dashboard. Aleda.store will show an alternative solution. A tutorial and glossary of NFT and cryptocurrency terminology will be included, with links to references.
 
 #### Github Branch location (only 1, since I am a solo team)
 
