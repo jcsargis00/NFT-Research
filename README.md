@@ -50,6 +50,13 @@ Bitcoin prices are highly volatile.
 #
 How is energy consumed by Bitcoin calculated?
 ![proc](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinprocess.PNG)
+#
+WHAT IS THE REAL CARBON FOOTPRINT OF THE BLOCKCHAIN?
+Proof-of-work blockchain networks consume a very large amount of energy, which results in a very large amount of carbon being emitted. Best estimates place bitcoin around 45.8 TWh, emitting around 45,800,000 Tonnes of CO2 per year [1]. The annual power consumption from Ethereum activity is estimated to be 9.62TWh from September '19 - '20 [2].
+
+[1] Stoll et al., The Carbon Footprint of Bitcoin (2019)
+[2] digiconomist.net/ethereum-energy-consumption
+#
 #### Description of the source of data
 2 datasources needed, environmental and  financial
 #
