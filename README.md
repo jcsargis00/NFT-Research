@@ -105,7 +105,7 @@ I am working solo and performing all of the 4 roles.
 * Triangle role - responsible for creating a simple machine learning model. Creating a simple model this early in the design process helps a team better understand where and how a machine learning model will fit into the project. This also grants more time to work out the specifics related to machine learning.
 
 Which model did you choose and why?
-* Simple Regression/ Clustering, good fit for the  problem.
+* Simple Regression/ Clustering, good fit for the  problem.  After plotting each ticker over a period of time, we can use machine learning to predict future pricing.  This calculation will also be performed on energy consumption versus popularity of NFTs, to predict future energy consumption.  Finally, an alternative solution will be presented to create NFTs with green technology.
 #
 How are you training your model?
 * After scaling, 75% of data will be used for training, 25% of data will be used for testing
