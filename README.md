@@ -70,7 +70,7 @@ https://github.com/jcsargis00/NFT-Research/tree/main/Resources/data
 #
 Financial data from Yahoo finance:
 #
-![yf](https://github.com/ranaroussi/yfinance)
+https://github.com/ranaroussi/yfinance
 #### Environmental sources pertaining to energy usage- still looking at data
 #
 https://github.com/kylemcdonald/ethereum-emissions
