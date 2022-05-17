@@ -142,12 +142,9 @@ Postgres sample table of crypto pricing model
 #
 Individual currencies will be stacked in the table in order to combine the plots on one chart.
 #
-Using yahoo finance model from here:
-![yah](https://github.com/jcsargis00/NFT-Research/blob/main/images/cryptopricetable.PNG)
+Using yahoo finance model from here.  Pull in pricing by cryptocurrency ticker name:
 #
-Pull in pricing by cryptocurrency ticker name:
-#
-![](https://github.com/jcsargis00/NFT-Research/blob/main/images/yahoo.PNG)
+![yah](https://github.com/jcsargis00/NFT-Research/blob/main/images/yahoo.PNG)
 #
 Select top 6-10 cryptocurrencies used to make NFT's from this chart.
 #
