@@ -72,8 +72,13 @@ Financial data from Yahoo finance:
 #
 https://github.com/ranaroussi/yfinance
 #
+Instruction for downloading data using Yahoo's Finance API
+![api](https://github.com/jcsargis00/NFT-Research/blob/main/images/yahooapi.PNG)
+#
+Script for one ticker:
+#
 ![pro](https://github.com/jcsargis00/NFT-Research/blob/main/images/yahoo.PNG)
-#)
+#
 #### Environmental sources pertaining to energy usage- still looking at data
 #
 https://github.com/kylemcdonald/ethereum-emissions
