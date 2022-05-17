@@ -71,6 +71,9 @@ https://github.com/jcsargis00/NFT-Research/tree/main/Resources/data
 Financial data from Yahoo finance:
 #
 https://github.com/ranaroussi/yfinance
+#
+![pro](https://github.com/jcsargis00/NFT-Research/blob/main/images/yahoo.PNG
+#)
 #### Environmental sources pertaining to energy usage- still looking at data
 #
 https://github.com/kylemcdonald/ethereum-emissions
