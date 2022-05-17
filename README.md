@@ -64,6 +64,10 @@ Proof-of-work blockchain networks consume a very large amount of energy, which r
 #### Description of the source of data
 2 datasources needed, environmental and  financial
 #
+Financial Dataset - Cryptocurrency Historical Prices from Kaggle
+#
+https://github.com/jcsargis00/NFT-Research/tree/main/Resources/data
+#
 #### Environmental sources pertaining to energy usage- still looking at data
 #
 https://github.com/kylemcdonald/ethereum-emissions
