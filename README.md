@@ -68,7 +68,7 @@ Financial Dataset - Cryptocurrency Historical Prices from Kaggle
 #
 https://github.com/jcsargis00/NFT-Research/tree/main/Resources/data
 #
-Pull data from yahoo finance:
+Financial data from Yahoo finance:
 https://github.com/ranaroussi/yfinance
 #### Environmental sources pertaining to energy usage- still looking at data
 #
