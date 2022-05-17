@@ -137,10 +137,19 @@ Fields of crypto pricing  model
 - Volume (Crypto) - This is the volume in the transacted Ccy. Ie. For BTC/USD, this is in BTC amount
 - Volume Base Ccy - This is the volume in the base/converted ccy. Ie. For BTC/USD, this is in USD amount
 #
-Postgres sample table tof crypto pricing model
+Postgres sample table of crypto pricing model
 ![pri](https://github.com/jcsargis00/NFT-Research/blob/main/images/cryptopricetable.PNG)
 #
 Individual currencies will be stacked in the table in order to combine the plots on one chart.
+#
+Using yahoo finance model from here:
+![yah](https://github.com/jcsargis00/NFT-Research/blob/main/images/cryptopricetable.PNG)
+#
+Pull in pricing by cryptocurrency ticker name:
+#
+![](https://github.com/jcsargis00/NFT-Research/blob/main/images/yahoo.PNG)
+#
+Select top 6-10 cryptocurrencies used to make NFT's from this chart.
 #
 #### Machine Learning
 * SciKitLearn is the ML library to create a classifier. 
