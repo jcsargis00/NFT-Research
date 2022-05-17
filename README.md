@@ -94,7 +94,7 @@ https://digiconomist.net/bitcoin-energy-consumption
 #
 Financial: Bitcoin (and other types of crypto, do stacked csv) price changes
 #
-#### Datasetcsv file URL
+#### Dataset csv file URL
 https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory?resource=download&select=coin_Litecoin.csv
 #
 Github
