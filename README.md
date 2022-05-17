@@ -42,6 +42,10 @@ Other cryptocurrencies that are structured similarly to bitcoin use energy for m
 Some people wonder if cryptocurrencies will disrupt the financial system, while others wonder if they will break the environment in the process."  
 add glossary, references
 #
+Ethereum average energy consumption per transaction compared to that of VISA as of January 10, 2022
+#
+![eth](https://github.com/jcsargis00/NFT-Research/blob/main/images/ethusage.PNG)
+#
 ![bit](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinenergy.PNG)
 #
 Bitcoin prices are highly volatile.
