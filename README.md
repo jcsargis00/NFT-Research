@@ -151,6 +151,8 @@ Pull in pricing by cryptocurrency ticker name:
 #
 Select top 6-10 cryptocurrencies used to make NFT's from this chart.
 #
+![market](https://github.com/jcsargis00/NFT-Research/blob/main/images/cryptowissernftmarket.PNG)
+There are 51 rows in this table, need to determine the top cryptocurrencies in the NFT marketplace from this information (website https://www.cryptowisser.com/nft-marketplaces/)
 #### Machine Learning
 * SciKitLearn is the ML library to create a classifier. 
 * KMeans clustering algorithm to group similar currencies into classes.
