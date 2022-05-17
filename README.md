@@ -68,6 +68,8 @@ Financial Dataset - Cryptocurrency Historical Prices from Kaggle
 #
 https://github.com/jcsargis00/NFT-Research/tree/main/Resources/data
 #
+Pull data from yahoo finance:
+https://github.com/ranaroussi/yfinance
 #### Environmental sources pertaining to energy usage- still looking at data
 #
 https://github.com/kylemcdonald/ethereum-emissions
@@ -120,13 +122,13 @@ How does this model work? TBD
 * Data Preprocessing  will involve selection, transformation,  and scaling of data.  Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
 
 #### Database Storage
-* Mongo or DynamoDb will be the database.
+* Mongo or DynamoDb will be the database for energy usage.
 * Flask will be used to display the data.
 * There will be 2 database tables, one for energy consumption and one for price fluctuation.
 The tables will include fields for energy usage and price changes
 * use Python to download the data from the Coinbase web site
-
-Example of fields of crypto pricing  model
+Postgres will be the database for crypto pricing.
+Fields of crypto pricing  model
 - Symbol - The symbol for which the timeseries data refers
 - Open - This is the opening price of the time period
 - High - This is the highest price of the time period
@@ -134,6 +136,9 @@ Example of fields of crypto pricing  model
 - Close - This is the closing price of the time period
 - Volume (Crypto) - This is the volume in the transacted Ccy. Ie. For BTC/USD, this is in BTC amount
 - Volume Base Ccy - This is the volume in the base/converted ccy. Ie. For BTC/USD, this is in USD amount
+#
+Postgres sample table tof crypto pricing model
+![pri](https://github.com/jcsargis00/NFT-Research/blob/main/images/cryptopricetable.PNG)
 #
 Individual currencies will be stacked in the table in order to combine the plots on one chart.
 #
