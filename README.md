@@ -62,7 +62,7 @@ Ethereum average energy consumption per transaction compared to that of VISA as 
 #
 Bitcoin prices are highly volatile.
 #
-![yah](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinyahoo.PNG)
+![yah](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinyahoo.png)
 #
 How is energy consumed by Bitcoin calculated?
 ![proc](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinprocess.PNG)
