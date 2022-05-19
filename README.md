@@ -4,6 +4,9 @@
 #### Selected topic
 #
 #### Why does NFT minting with cryptocurrency use so much energy?
+* How does minting work?
+#
+![bite](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinexp.PNG)
 * Is energy used related to cryptocurrency price fluctuations?
 * Can we predict how much energy will be used in the  future using machine learning?
 * Is this an environmental concern?
