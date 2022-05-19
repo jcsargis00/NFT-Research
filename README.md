@@ -3,7 +3,8 @@
 #
 Types of Cryptocurrency
 #
-![cryp](https://github.com/jcsargis00/NFT-Research/blob/main/images/cryototypes.png)
+![cryp](https://github.com/jcsargis00/NFT-Research/blob/main/images/cryptotypes.png)
+#
 #### Selected topic
 #
 #### Why does NFT minting with cryptocurrency use so much energy?
