@@ -1,6 +1,9 @@
 # NFT-Research
 ### Presentation
 #
+Types of Cryptocurrency
+#
+![cryp](https://github.com/jcsargis00/NFT-Research/blob/main/images/cryototypes.png)
 #### Selected topic
 #
 #### Why does NFT minting with cryptocurrency use so much energy?
@@ -8,6 +11,10 @@
 #
 ![bite](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinexp.png)
 #
+Does Ethereum use a lot of energy?
+![ethu ](https://github.com/jcsargis00/NFT-Research/blob/main/images/ethchart.png)
+#
+URL - https://etherscan.io/chart/tx
 * Is energy used related to cryptocurrency price fluctuations?
 * Can we predict how much energy will be used in the  future using machine learning?
 * Is this an environmental concern?
