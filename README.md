@@ -3,7 +3,7 @@
 #
 Types of Cryptocurrency
 #
-![cryp](https://github.com/jcsargis00/NFT-Research/blob/main/images/cryptotypes.png)
+![cryp](https://github.com/jcsargis00/NFT-Research/blob/main/images/cryptotypes.PNG)
 #
 #### Selected topic
 #
