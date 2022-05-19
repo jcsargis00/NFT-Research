@@ -10,7 +10,7 @@ Types of Cryptocurrency
 #### Why does NFT minting with cryptocurrency use so much energy?
 * How does minting work?
 #
-![bite](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinexp.PNG)
+![bite](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinexp.png)
 #
 Does Ethereum use a lot of energy?
 ![ethu ](https://github.com/jcsargis00/NFT-Research/blob/main/images/ethchart.PNG)
@@ -56,7 +56,7 @@ add glossary, references
 #
 Ethereum average energy consumption per transaction compared to that of VISA as of January 10, 2022
 #
-![eth](https://github.com/jcsargis00/NFT-Research/blob/main/images/ethusage.PNG)
+![eth](https://github.com/jcsargis00/NFT-Research/blob/main/images/ethusage.PNG)  
 #
 ![bit](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinenergy.PNG)
 #
