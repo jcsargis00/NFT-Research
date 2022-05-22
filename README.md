@@ -1,9 +1,21 @@
 # NFT-Research
 ### Presentation
 #
+Types of Cryptocurrency
+#
+![cryp](https://github.com/jcsargis00/NFT-Research/blob/main/images/cryptotypes.PNG)
+#
 #### Selected topic
 #
 #### Why does NFT minting with cryptocurrency use so much energy?
+* How does minting work?
+#
+![bite](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinexp.png)
+#
+Does Ethereum use a lot of energy?
+![ethu ](https://github.com/jcsargis00/NFT-Research/blob/main/images/ethchart.PNG)
+#
+URL - https://etherscan.io/chart/tx
 * Is energy used related to cryptocurrency price fluctuations?
 * Can we predict how much energy will be used in the  future using machine learning?
 * Is this an environmental concern?
@@ -44,7 +56,7 @@ add glossary, references
 #
 Ethereum average energy consumption per transaction compared to that of VISA as of January 10, 2022
 #
-![eth](https://github.com/jcsargis00/NFT-Research/blob/main/images/ethusage.PNG)
+![eth](https://github.com/jcsargis00/NFT-Research/blob/main/images/ethusage.PNG)  
 #
 ![bit](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinenergy.PNG)
 #
