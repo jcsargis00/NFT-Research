@@ -61,6 +61,7 @@ Proof-of-work blockchain networks consume a very large amount of energy, which r
 [1] Stoll et al., The Carbon Footprint of Bitcoin (2019)
 [2] digiconomist.net/ethereum-energy-consumption
 #
+### Bitcoin Energy Consumption Prediction with Machine Learning
 #### Description of the source of data
 2 datasources needed, environmental and  financial
 #
@@ -97,6 +98,11 @@ Financial: Bitcoin (and other types of crypto, do stacked csv) price changes
 #### Dataset csv file URL
 https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory?resource=download&select=coin_Litecoin.csv
 #
+######
+Electric power consumption data for one household dataset
+
+
+
 Github
 Description of the communication protocols
 I am working solo and performing all of the 4 roles.
