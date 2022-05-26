@@ -85,7 +85,7 @@ The global cryptocurrency market cap today (5/26/22) is $1.29 Trillion, a -3.0% 
 #
 Top 10 Cryptocurrencies chart is shown below:
 #
-![market]((https://github.com/jcsargis00/NFT-Research/blob/main/images/crypmarketcapprice.PNG)
+![market](https://github.com/jcsargis00/NFT-Research/blob/main/images/crypmarketcapprice.PNG)
 ##
 https://github.com/jcsargis00/NFT-Research/tree/main/Resources/data
 #
