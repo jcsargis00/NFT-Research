@@ -79,6 +79,14 @@ Proof-of-work blockchain networks consume a very large amount of energy, which r
 #
 Financial Dataset - Cryptocurrency Historical Prices from Kaggle
 #
+Cryptocurrency Prices by Market Cap - source Coin Gecko
+#
+The global cryptocurrency market cap today (5/26/22) is $1.29 Trillion, a -3.0% change in the last 24 hours.
+#
+Top 10 Cryptocurrencies chart is shown below:
+#
+![market]((https://github.com/jcsargis00/NFT-Research/blob/main/images/crypmarketcapprice.PNG)
+#
 https://github.com/jcsargis00/NFT-Research/tree/main/Resources/data
 #
 Financial data from Yahoo finance:
