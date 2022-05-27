@@ -154,6 +154,7 @@ Ethereum Emission Tracker
 ## Database - Postgres and Entity Relationship Diagram
 ### ERD 
 ![erd](https://github.com/jcsargis00/NFT-Research/blob/main/images/erd.PNG)
+#
 #### Dataset repository directory
 https://github.com/jcsargis00/NFT-Research/tree/main/Resources/data
 #
