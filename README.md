@@ -89,6 +89,14 @@ Ethereum average energy consumption per transaction compared to that of VISA as 
 #
 ![eth](https://github.com/jcsargis00/NFT-Research/blob/main/images/ethusage.PNG)  
 #
+Energy use by Country compared to Ethereum energy use 
+#
+![ethuse](https://github.com/jcsargis00/NFT-Research/blob/main/images/eth_energy_usage.png)
+#
+Energy use by Country compared to Bitcoin energy use 
+#
+!bituse](https://github.com/jcsargis00/NFT-Research/blob/main/images/btc_energy_usage.png)
+#
 ![bit](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinenergy.PNG)
 #
 Bitcoin prices are highly volatile.
@@ -137,6 +145,9 @@ Script for one ticker:
 https://github.com/kylemcdonald/ethereum-emissions
 #
 https://www.eia.gov/totalenergy/data/monthly/
+### Electric energy consumption prediction using Machine Learning Household Electricity consumption https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set?resource=download
+#
+Datasource - 
 
 #
 Bitcoin energy usage (Cambridge study)
