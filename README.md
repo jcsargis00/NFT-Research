@@ -74,7 +74,6 @@ Why Cryptocurrencies Use So Much Energy
 #
 #### Why does NFT minting with cryptocurrency use so much energy?
 * How does minting work?
-#
 ![bite](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinexp.png)
 #
 Does Ethereum use a lot of energy?
