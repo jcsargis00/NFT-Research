@@ -104,8 +104,10 @@ Proof-of-work blockchain networks consume a very large amount of energy, which r
 [2] digiconomist.net/ethereum-energy-consumption
 #
 ### Bitcoin Energy Consumption Prediction with Machine Learning
-#### Description of the source of data
-2 datasources needed, financial and environmental
+#### Sources of Datasets
+2 datasources needed
+^ Financial
+* Environmental
 #
 Financial Dataset - Cryptocurrency Historical Prices from Kaggle
 #
