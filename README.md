@@ -93,8 +93,8 @@ Investors are expecting more volatility in ether (ETH) compared with bitcoin (BT
 * Environmental
 ### Cryptocurrency Price Tracking
 Financial Dataset 
-- Cryptocurrency Historical Prices from Yahoo Finance
 - Cryptocurrency Prices by Market Cap - source Coin Gecko
+- Cryptocurrency Historical Prices from Yahoo Finance
 ![geck](https://github.com/jcsargis00/NFT-Research/blob/main/images/coingecko.PNG)
 - The global cryptocurrency market cap today (5/26/22) is $1.29 Trillion, a -3.0% change in the last 24 hours.
 #### Top 10 Cryptocurrencies
