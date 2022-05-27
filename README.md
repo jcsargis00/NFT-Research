@@ -161,11 +161,7 @@ https://github.com/jcsargis00/NFT-Research/tree/main/Resources/data
 ### Machine Learning application 
 Electric energy consumption prediction using Machine Learning Household Electricity consumption 
 ##### Data source https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set?resource=download
-
-
-
-Github
-Description of the communication protocols
+### Github communication protocols
 I am working solo and performing all of the 4 roles.
 
 * Square role will be responsible for setting up the repository. This includes naming the repository and adding team members, which is just me.
