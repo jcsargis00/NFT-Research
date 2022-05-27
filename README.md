@@ -19,9 +19,7 @@
 ![curry](https://github.com/jcsargis00/NFT-Research/blob/main/images/curry.PNG)
 * Cryptocurrency - cryptocurrency, crypto-currency, crypto, or coin is a digital currency designed to work as a medium of exchange through a computer network that is not reliant on any central authority, such as a government or bank, to uphold or maintain it.
 * CryptoPunk - A unique collectible avatar stored on Ethereum. There are three CryptoPunks listed in the top 10 most expensive NFTs ever sold.
-#
-CryptoPunk NFTs
-#
+###### CryptoPunk NFTs
 ![punk](https://github.com/jcsargis00/NFT-Research/blob/main/images/punks.PNG)
 * Digital Wallet (or electronic wallet) - a financial transaction application that runs on mobile devices. It securely stores your payment information and passwords. These applications allow you to pay when you're shopping using your device so that you don't need to carry your cards around. You enter and store your credit card, debit card, or bank account information and can then use your device to pay for purchases.
 * Discord - An instant messaging platform and the go-to place for discussing NFTs.
