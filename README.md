@@ -23,7 +23,7 @@ Beeple's Everydays: the First 5000 Days
 Steph Curry Bored Ape NFT
 #
 ![curry](https://github.com/jcsargis00/NFT-Research/blob/main/images/curry.PNG)
-* cryptocurrency - cryptocurrency, crypto-currency, crypto, or coin is a digital currency designed to work as a medium of exchange through a computer network that is not reliant on any central authority, such as a government or bank, to uphold or maintain it.
+* Cryptocurrency - cryptocurrency, crypto-currency, crypto, or coin is a digital currency designed to work as a medium of exchange through a computer network that is not reliant on any central authority, such as a government or bank, to uphold or maintain it.
 * CryptoPunk - A unique collectible avatar stored on Ethereum. There are three CryptoPunks listed in the top 10 most expensive NFTs ever sold.
 #
 CryptoPunk NFTs
@@ -65,7 +65,7 @@ CryptoPunk NFTs
 
 * Smart Contract - A self-executing digital contract. NFTs are composed of code written in smart contract programming language like Solidity.
 
-Why Cryptocurrencies Use So Much Energy
+### Why Cryptocurrencies Use So Much Energy
 #
 ![digi](https://github.com/jcsargis00/NFT-Research/blob/main/images/somuchenergy.PNG)
 #
