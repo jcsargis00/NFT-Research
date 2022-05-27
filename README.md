@@ -17,7 +17,7 @@ Why Cryptocurrencies Use So Much Energy
 ![luger](https://github.com/jcsargis00/NFT-Research/blob/main/images/kugler.png)
 #
 **Some people wonder if cryptocurrencies will disrupt the financial system, while others wonder if they will break the environment in the process.**
-Ref. Logan Kugler Communications of the ACM, July 2018, Vol. 61 No. 7, Pages 15-17
+#### Ref. Logan Kugler Communications of the ACM, July 2018, Vol. 61 No. 7, Pages 15-17
 10.1145/3213762, https://cacm.acm.org/magazines/2018/7/229045-why-cryptocurrencies-use-so-much-energy/fulltext
 
 #
