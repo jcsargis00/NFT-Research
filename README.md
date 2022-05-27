@@ -33,11 +33,8 @@
 * Metadata - The collection of data that defines ownership and differentiates one NFT from another. Metadata can be on-chain or off-chain.  
 * Metaverse - A virtual 3D world where people can interact. Popular blockchain-based environments that comprise the metaverse include Decentraland and The Sandbox, virtual gaming worlds where users can buy and sell land as NFTs.
 * Mining - The method by which Bitcoin and other cryptocurrencies are generated and the transactions involving new coins are verified is known as mining. It entails massive, decentralised networks of computers all over the world that verify and safeguard blockchains, which are virtual ledgers that record crypto transactions.
-
 * Minting - The process by which an NFT becomes part of the blockchain. Once an asset is put on the blockchain, it is “minted” as a token and cannot be altered.
 * NFT - A non-fungible token is a financial security consisting of digital data stored in a blockchain, a form of distributed ledger. The ownership of an NFT is recorded in the blockchain, and can be transferred by the owner, allowing NFTs to be sold and traded.
-#
-![NFT](https://github.com/jcsargis00/NFT-Research/blob/main/images/nft.PNG)
 * OpenSea - Launched in 2018, OpenSea is the first and largest NFT marketplace, boasting four million assets and 135+ DApps.
 * Proof-of-work puzzle -Solving the proof-of-work puzzle requires miners to exhaust all possible options until a random number — called a nonce in technical jargon — is found that meets the network difficulty target. Rather than guessing numbers manually, miners use special hardware equipment to quickly generate potential solutions.
 * Rarible - A community-owned NFT marketplace founded in 2020. The Moscow-based platform mostly hosts digital art, and is fuelled by its native ERC-20 token RARI.
