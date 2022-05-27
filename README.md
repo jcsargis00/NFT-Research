@@ -158,8 +158,10 @@ Ethereum Emission Tracker
 #### Dataset repository directory
 https://github.com/jcsargis00/NFT-Research/tree/main/Resources/data
 #
-######
-Electric energy consumption prediction using Machine Learning Household Electricity consumption https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set?resource=download
+### Machine Learning application 
+Electric energy consumption prediction using Machine Learning Household Electricity consumption 
+##### Data source
+![uciml](https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set?resource=download)
 
 
 
