@@ -74,7 +74,8 @@ Investors are expecting more volatility in ether (ETH) compared with bitcoin (BT
 ![ethvola](https://github.com/jcsargis00/NFT-Research/blob/main/images/skew.PNG)
 #
 ![shiraz](https://github.com/jcsargis00/NFT-Research/blob/main/images/shiraz.PNG)
-Bitcoin prices are highly volatile.
+#
+### Bitcoin prices are highly volatile.
 #
 ![yah](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinyahoo.png)
 #
