@@ -96,6 +96,9 @@ Energy use by Country compared to Bitcoin energy use
 #
 ![bit](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinenergy.PNG)
 #
+Country ranking by electricity use vs Bitcoin
+#
+![rank](https://github.com/jcsargis00/NFT-Research/blob/main/images/userrankcountry.PNG)
 Ethereum prices are highly volatile and have been for quite some time.
 #
 'Potential big move' - but not necessarily up - Ref. Coindesk 9/14/2021
@@ -164,14 +167,20 @@ Bitcoin Data Mining Map - world locations  Ref-Cambridge Bitcoin Electricity Con
 #
 ![states](https://github.com/jcsargis00/NFT-Research/blob/main/images/states.PNG)
 #
-https://github.com/ranaroussi/yfinance
+Financial Data on Cryptocurrency from Yahoo Finance API
 #
-Instruction for downloading data using Yahoo's Finance API
-![api](https://github.com/jcsargis00/NFT-Research/blob/main/images/yahooapi.PNG)
+Data for the top ten cryptocurrencies was downloaded and put in data frames.
 #
-Script for one ticker:
+Ethereum Simple plot of prices over 10 years
 #
-![pro](https://github.com/jcsargis00/NFT-Research/blob/main/images/yahoo.PNG)
+![ethp](https://github.com/jcsargis00/NFT-Research/blob/main/images/ethchart.PNG)
+#
+Ethereum Trading volume added to plot
+#
+![ethp](https://github.com/jcsargis00/NFT-Research/blob/main/images/ethvolume.PNG)
+Ethereum Candlestick plot
+#
+![ethp](https://github.com/jcsargis00/NFT-Research/blob/main/images/ethcandle.PNG)
 #
 #### Environmental sources pertaining to energy usage- still looking at data
 #
