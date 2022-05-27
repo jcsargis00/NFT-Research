@@ -52,10 +52,7 @@
 ![bite](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinexp.png)
 #
 Does Ethereum use a lot of energy?
-![ethu ](https://github.com/jcsargis00/NFT-Research/blob/main/images/ethchart.PNG)
-#
-URL - https://etherscan.io/chart/tx
-
+![ethu ](https://github.com/jcsargis00/NFT-Research/blob/main/images/globalethm.PNG)
 #
 Ethereum average energy consumption per transaction compared to that of VISA as of January 10, 2022
 #
