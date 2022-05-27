@@ -193,7 +193,7 @@ How does this model work? TBD
 - Tensorflow
 - SciKitLearn
 - KMeans
-- Mongo or DynamoDB
+- Postgres
 #
 #### Data Cleaning and Analysis
 * Data Preprocessing  will involve selection, transformation,  and scaling of data.  Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
