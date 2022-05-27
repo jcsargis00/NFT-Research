@@ -80,10 +80,7 @@ Does Ethereum use a lot of energy?
 ![ethu ](https://github.com/jcsargis00/NFT-Research/blob/main/images/ethchart.PNG)
 #
 URL - https://etherscan.io/chart/tx
-* Is energy used related to cryptocurrency price fluctuations?
-* Can we predict how much energy will be used in the  future using machine learning?
-* Is this an environmental concern?
-* If it is, is there an eco friendly solution for NFT minting without cryptocurrency?
+
 #
 Ethereum average energy consumption per transaction compared to that of VISA as of January 10, 2022
 #
@@ -114,7 +111,7 @@ Proof-of-work blockchain networks consume a very large amount of energy, which r
 ### Bitcoin Energy Consumption Prediction with Machine Learning
 #### Sources of Datasets
 2 datasources needed
-^ Financial
+* Financial
 * Environmental
 #
 Financial Dataset - Cryptocurrency Historical Prices from Kaggle
@@ -242,3 +239,9 @@ https://github.com/jcsargis00/NFT-Research
 #
 Takes in data from the provisional database
 Outputs label for input data, plots and graphs for dashboard.
+
+Summary and Followup Questions:
+* Is energy used related to cryptocurrency price fluctuations?
+* Can we predict how much energy will be used in the  future using machine learning?
+* Is this an environmental concern?
+* If it is, is there an eco friendly solution for NFT minting without cryptocurrency?
