@@ -88,11 +88,11 @@ Ethereum average energy consumption per transaction compared to that of VISA as 
 #
 Energy use by Country compared to Ethereum energy use 
 #
-![ethuse](https://github.com/jcsargis00/NFT-Research/blob/main/images/eth_energy_usage.png)
+![ethuse](https://github.com/jcsargis00/NFT-Research/blob/main/images/eth_energy_usage_by_country.png)
 #
 Energy use by Country compared to Bitcoin energy use 
 #
-!bituse](https://github.com/jcsargis00/NFT-Research/blob/main/images/btc_energy_usage.png)
+![bituse](https://github.com/jcsargis00/NFT-Research/blob/main/images/btc_energy_usage_by_country.png)
 #
 ![bit](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinenergy.PNG)
 #
