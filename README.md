@@ -170,7 +170,7 @@ Financial: Bitcoin (and other types of crypto, do stacked csv) price changes
 https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory?resource=download&select=coin_Litecoin.csv
 #
 ######
-Electric power consumption data for one household dataset
+Electric energy consumption prediction using Machine Learning Household Electricity consumption https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set?resource=download
 
 
 
