@@ -102,15 +102,14 @@ Financial Dataset
 ## Datasets
 https://github.com/jcsargis00/NFT-Research/tree/main/Resources/data
 ### Financial Data from Coin Gecko
-#
-BTC Price Today
+#### BTC Price Today
 - Bitcoin price today is $29,069.36 with a 24-hour trading volume of $34,128,213,186. 
 - BTC price is down -2.6% in the last 24 hours. 
 - It has a circulating supply of 19 Million BTC coins and a total supply of 21 Million. 
 - Bitcoin hit an all time high of $69,044.77 on Nov 10, 2021 (7 months).
 - Bitcoin had an all time low of $67.81 on Jul 06, 2013 (almost 9 years).
 ![btceth](https://github.com/jcsargis00/NFT-Research/blob/main/images/btcethpricechart.PNG)
-ETH Price Today
+#### ETH Price Today
 - Ethereum price today is $1,773.90 with a 24-hour trading volume of $26,337,907,422. 
 - ETH price is down -8.8% in the last 24 hours. 
 - It has a circulating supply of 120 Million ETH coins and a total supply of ∞.
