@@ -154,7 +154,9 @@ https://github.com/kylemcdonald/ethereum-emissions
 https://www.eia.gov/totalenergy/data/monthly/
 ### Electric energy consumption prediction using Machine Learning Household Electricity consumption https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set?resource=download
 #
-## Datasets
+## Database - Postgres
+### ERD (https://github.com/jcsargis00/NFT-Research/blob/main/images/erd.PNG)
+![erd]
 https://github.com/jcsargis00/NFT-Research/tree/main/Resources/data
 #
 Financial: Bitcoin (and other types of crypto, do stacked csv) price changes
