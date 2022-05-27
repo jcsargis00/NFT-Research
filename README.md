@@ -152,12 +152,10 @@ Ethereum Emission Tracker
 ### Electric energy consumption prediction using Machine Learning Household Electricity consumption https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set?resource=download
 #
 ## Database - Postgres and Entity Relationship Diagram
-### ERD (https://github.com/jcsargis00/NFT-Research/blob/main/images/erd.PNG)
-![erd]
+### ERD 
+![erd](https://github.com/jcsargis00/NFT-Research/blob/main/images/erd.PNG)
+#### Dataset repository directory
 https://github.com/jcsargis00/NFT-Research/tree/main/Resources/data
-#
-#### Dataset csv file URL
-https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory?resource=download&select=coin_Litecoin.csv
 #
 ######
 Electric energy consumption prediction using Machine Learning Household Electricity consumption https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set?resource=download
