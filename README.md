@@ -123,9 +123,7 @@ Financial Dataset
 ![country](https://github.com/jcsargis00/NFT-Research/blob/main/images/country.PNG)
 #
 ![states](https://github.com/jcsargis00/NFT-Research/blob/main/images/states.PNG)
-#
-Financial Data on Cryptocurrency from Yahoo Finance API
-#
+### Financial Data on Cryptocurrency from Yahoo Finance API
 Data for the top ten cryptocurrencies was downloaded and put in data frames.
 #
 Ethereum DataFrame
