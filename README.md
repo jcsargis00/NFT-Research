@@ -25,6 +25,10 @@ Steph Curry Bored Ape NFT
 #
 ![curry](https://github.com/jcsargis00/NFT-Research/blob/main/images/curry.PNG)
 * CryptoPunk - A unique collectible avatar stored on Ethereum. There are three CryptoPunks listed in the top 10 most expensive NFTs ever sold.
+#
+CryptoPunk NFTs
+#
+![punk](https://github.com/jcsargis00/NFT-Research/blob/main/images/punks.PNG)
 
 * Discord - An instant messaging platform and the go-to place for discussing NFTs.
 
