@@ -135,11 +135,8 @@ Financial Dataset - Cryptocurrency Historical Prices from Kaggle
 #
 Cryptocurrency Prices by Market Cap - source Coin Gecko
 ![geck](https://github.com/jcsargis00/NFT-Research/blob/main/images/coingecko.PNG)
-#
-The global cryptocurrency market cap today (5/26/22) is $1.29 Trillion, a -3.0% change in the last 24 hours.
-#
-Top 10 Cryptocurrencies chart is shown below:
-#
+- The global cryptocurrency market cap today (5/26/22) is $1.29 Trillion, a -3.0% change in the last 24 hours.
+- Top 10 Cryptocurrencies chart is shown below:
 ![market](https://github.com/jcsargis00/NFT-Research/blob/main/images/crypmarketcapprice.PNG)
 ## Datasets
 https://github.com/jcsargis00/NFT-Research/tree/main/Resources/data
