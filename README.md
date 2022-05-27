@@ -99,8 +99,6 @@ Financial Dataset
 - The global cryptocurrency market cap today (5/26/22) is $1.29 Trillion, a -3.0% change in the last 24 hours.
 #### Top 10 Cryptocurrencies
 ![market](https://github.com/jcsargis00/NFT-Research/blob/main/images/crypmarketcapprice.PNG)
-## Datasets
-https://github.com/jcsargis00/NFT-Research/tree/main/Resources/data
 ### Financial Data from Coin Gecko
 #### BTC Price Today
 - Bitcoin price today is $29,069.36 with a 24-hour trading volume of $34,128,213,186. 
@@ -158,14 +156,8 @@ https://github.com/kylemcdonald/ethereum-emissions
 https://www.eia.gov/totalenergy/data/monthly/
 ### Electric energy consumption prediction using Machine Learning Household Electricity consumption https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set?resource=download
 #
-Datasource - 
-
-#
-Bitcoin energy usage (Cambridge study)
-#
-https://ccaf.io/cbeci/mining_map
-#
-https://digiconomist.net/bitcoin-energy-consumption
+## Datasets
+https://github.com/jcsargis00/NFT-Research/tree/main/Resources/data
 #
 Financial: Bitcoin (and other types of crypto, do stacked csv) price changes
 #
