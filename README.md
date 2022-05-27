@@ -192,7 +192,8 @@ Ethereum Candlestick plot
 #### Environmental sources pertaining to energy usage- still looking at data
 #
 Ethereum Emission Tracker
-![emi](https://github.com/jcsargis00/NFT-Research/blob/main/images/ethem.PNG)
+#
+![emi](https://github.com/jcsargis00/NFT-Research/blob/main/images/ethem.png)
 #
 ![emi2](https://github.com/jcsargis00/NFT-Research/blob/main/images/ethem2.PNG)
 #
