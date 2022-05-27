@@ -193,6 +193,9 @@ Ethereum Candlestick plot
 #
 Ethereum Emission Tracker
 ![emi](https://github.com/jcsargis00/NFT-Research/blob/main/images/ethem.PNG)
+#
+![emi2](https://github.com/jcsargis00/NFT-Research/blob/main/images/ethem2.PNG)
+#
 https://github.com/kylemcdonald/ethereum-emissions
 #
 https://www.eia.gov/totalenergy/data/monthly/
