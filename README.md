@@ -1,4 +1,4 @@
-# NFT-Research - Energy Consumption and Price Volatility
+# NFT-Research - Energy Consumption, Environmental Concerns and Price Volatility
 ### Using Databases and Machine Learning for Cryptocurrency Energy Consumption and Price Volatility Research
 #
 ![cryp](https://github.com/jcsargis00/NFT-Research/blob/main/images/cryptotypes.PNG)
