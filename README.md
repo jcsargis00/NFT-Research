@@ -88,11 +88,10 @@ Investors are expecting more volatility in ether (ETH) compared with bitcoin (BT
 - The annual power consumption from Ethereum activity is estimated to be 9.62TWh from September '19 - '20.
 ##### Ref. Stoll et al., The Carbon Footprint of Bitcoin (2019), digiconomist.net/ethereum-energy-consumption
 #
-### Bitcoin Energy Consumption Prediction with Machine Learning
-#### Sources of Datasets
-2 datasources needed
+#### Types of Datasets needed for research
 * Financial
 * Environmental
+### Cryptocurrency Price Tracking
 #
 Financial Dataset - Cryptocurrency Historical Prices from Kaggle
 #
