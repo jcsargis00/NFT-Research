@@ -194,11 +194,10 @@ How does this model work? TBD
 * Data Preprocessing  will involve selection, transformation,  and scaling of data.  Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
 
 #### Database Storage
-* Mongo or DynamoDb will be the database for energy usage.
-* Flask will be used to display the data.
-* There will be 2 database tables, one for energy consumption and one for price fluctuation.
-The tables will include fields for energy usage and price changes
-* use Python to download the data from the Coinbase web site
+* Postgres will be the database for energy usage.
+* There are 6 tables in the  database, four for power consumption tracking (environmental) and 2 for cyptocurrency price tracking (financial).
+The tables include fields for energy usage and price changes
+* used Python to download the data from the Coinbase web site
 Postgres will be the database for crypto pricing.
 Fields of crypto pricing  model
 - Symbol -  symbol for which the timeseries data refers
@@ -211,8 +210,6 @@ Fields of crypto pricing  model
 #
 Postgres sample table of crypto pricing model
 ![pri](https://github.com/jcsargis00/NFT-Research/blob/main/images/cryptopricetable.PNG)
-#
-Individual currencies will be stacked in the table in order to combine the plots on one chart.
 #
 Using yahoo finance model from here.  Pull in pricing by cryptocurrency ticker name:
 #
