@@ -52,6 +52,9 @@ CryptoPunk NFTs
 * Metaverse - A virtual 3D world where people can interact. Popular blockchain-based environments that comprise the metaverse include Decentraland and The Sandbox, virtual gaming worlds where users can buy and sell land as NFTs.
 
 * Minting - The process by which an NFT becomes part of the blockchain. Once an asset is put on the blockchain, it is “minted” as a token and cannot be altered.
+* NFT - A non-fungible token is a financial security consisting of digital data stored in a blockchain, a form of distributed ledger. The ownership of an NFT is recorded in the blockchain, and can be transferred by the owner, allowing NFTs to be sold and traded.
+#
+![NFT](https://github.com/jcsargis00/NFT-Research/blob/main/images/nft.PNG)
 
 * OpenSea - Launched in 2018, OpenSea is the first and largest NFT marketplace, boasting four million assets and 135+ DApps.
 
