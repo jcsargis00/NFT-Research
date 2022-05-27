@@ -160,8 +160,7 @@ https://github.com/jcsargis00/NFT-Research/tree/main/Resources/data
 #
 ### Machine Learning application 
 Electric energy consumption prediction using Machine Learning Household Electricity consumption 
-##### Data source
-![uciml](https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set?resource=download)
+##### Data source https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set?resource=download
 
 
 
@@ -206,13 +205,13 @@ The tables will include fields for energy usage and price changes
 * use Python to download the data from the Coinbase web site
 Postgres will be the database for crypto pricing.
 Fields of crypto pricing  model
-- Symbol - The symbol for which the timeseries data refers
-- Open - This is the opening price of the time period
-- High - This is the highest price of the time period
-- Low - This is the lowest price of the time period
+- Symbol -  symbol for which the timeseries data refers
+- Open -  the opening price of the time period
+- High -  the highest price of the time period
+- Low -  the lowest price of the time period
 - Close - This is the closing price of the time period
-- Volume (Crypto) - This is the volume in the transacted Ccy. Ie. For BTC/USD, this is in BTC amount
-- Volume Base Ccy - This is the volume in the base/converted ccy. Ie. For BTC/USD, this is in USD amount
+- Volume (Crypto) - the volume in the transacted Ccy. Ie. For BTC/USD, this is in BTC amount
+- Volume Base Ccy - the volume in the base/converted ccy. Ie. For BTC/USD, this is in USD amount
 #
 Postgres sample table of crypto pricing model
 ![pri](https://github.com/jcsargis00/NFT-Research/blob/main/images/cryptopricetable.PNG)
