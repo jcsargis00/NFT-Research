@@ -43,11 +43,9 @@
 *  ASIC (application-specific integrated circuit) - a microchip designed for a special application, such as a particular kind of transmission protocol or a hand-held computer. You might contrast it with general integrated circuits, such as the microprocessor and the random access memory chips in your PC.
 
 ### Why Cryptocurrencies Use So Much Energy
-#
-![digi](https://github.com/jcsargis00/NFT-Research/blob/main/images/somuchenergy.PNG)
-#
 ![kugler](https://github.com/jcsargis00/NFT-Research/blob/main/images/kugler.png)
-#
+##### Bitcoin Carbon Footprint Calculations
+![digi](https://github.com/jcsargis00/NFT-Research/blob/main/images/somuchenergy.PNG)
 ## **Some people wonder if cryptocurrencies will disrupt the financial system, while others wonder if they will break the environment in the process.**
 ### Why does NFT minting with cryptocurrency use so much energy?
 * How does minting work?
