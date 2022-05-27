@@ -118,7 +118,7 @@ Financial Dataset
 #### Bitcoin Data Mining Map - world locations  Ref-Cambridge Bitcoin Electricity Consumption Index
 ![map](https://github.com/jcsargis00/NFT-Research/blob/main/images/btcmap.PNG)
 #
-![hash](https://github.com/jcsargis00/NFT-Research/blob/main/images/hashrate.PNG)
+![hash](https://github.com/jcsargis00/NFT-Research/blob/main/images/hashrate2.PNG)
 #
 ![country](https://github.com/jcsargis00/NFT-Research/blob/main/images/country.PNG)
 #
