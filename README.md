@@ -143,16 +143,16 @@ BTC Price Today
 - It has a circulating supply of 19 Million BTC coins and a total supply of 21 Million. 
 - Bitcoin hit an all time high of $69,044.77 on Nov 10, 2021 (7 months).
 - Bitcoin had an all time low of $67.81 on Jul 06, 2013 (almost 9 years).
-Bitcoin and Ethereum Price Chart
+Bitcoin Price Chart
 ![btceth](https://github.com/jcsargis00/NFT-Research/blob/main/images/btcethpricechart.PNG)
 ETH Price Today
-Ethereum price today is $1,773.90 with a 24-hour trading volume of $26,337,907,422. 
-ETH price is down -8.8% in the last 24 hours. 
-It has a circulating supply of 120 Million ETH coins and a total supply of ∞.
-Ethereum hit an all time high of $4,878.26 on Nov 10, 2021 (7 months).
-Ethereum had an all time low of $0.432979 on Oct 20, 2015 (over 6 years).
+- Ethereum price today is $1,773.90 with a 24-hour trading volume of $26,337,907,422. 
+- ETH price is down -8.8% in the last 24 hours. 
+- It has a circulating supply of 120 Million ETH coins and a total supply of ∞.
+- Ethereum hit an all time high of $4,878.26 on Nov 10, 2021 (7 months).
+- Ethereum had an all time low of $0.432979 on Oct 20, 2015 (over 6 years).
 #
-Ethereum and Bitcoin Price Chart
+Ethereum Price Chart
 #
 ![ethbtc](https://github.com/jcsargis00/NFT-Research/blob/main/images/ethbtcprice.PNG)
 #
