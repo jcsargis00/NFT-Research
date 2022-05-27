@@ -171,9 +171,13 @@ Financial Data on Cryptocurrency from Yahoo Finance API
 #
 Data for the top ten cryptocurrencies was downloaded and put in data frames.
 #
+Ethereum DataFrame
+#
+![ethp](https://github.com/jcsargis00/NFT-Research/blob/main/images/ticketh.PNG)
+#
 Ethereum Simple plot of prices over 10 years
 #
-![ethp](https://github.com/jcsargis00/NFT-Research/blob/main/images/ethchart.PNG)
+![ethp](https://github.com/jcsargis00/NFT-Research/blob/main/images/tickethplot.PNG)
 #
 Ethereum Trading volume added to plot
 #
