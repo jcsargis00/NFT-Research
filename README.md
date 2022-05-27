@@ -155,6 +155,8 @@ ETH Price Today
 #
 ![ethbtc](https://github.com/jcsargis00/NFT-Research/blob/main/images/ethbtcprice.PNG)
 #
+Bitcoin Data Mining Map - world locations  Ref-Cambridge Bitcoin Electricity Consumption Index
+![map](https://github.com/jcsargis00/NFT-Research/blob/main/images/btcmap.PNG)
 Financial data from Yahoo finance:
 #
 https://github.com/ranaroussi/yfinance
