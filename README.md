@@ -154,7 +154,7 @@ https://github.com/kylemcdonald/ethereum-emissions
 https://www.eia.gov/totalenergy/data/monthly/
 ### Electric energy consumption prediction using Machine Learning Household Electricity consumption https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set?resource=download
 #
-## Database - Postgres
+## Database - Postgres and Entity Relationship Diagram
 ### ERD (https://github.com/jcsargis00/NFT-Research/blob/main/images/erd.PNG)
 ![erd]
 https://github.com/jcsargis00/NFT-Research/tree/main/Resources/data
