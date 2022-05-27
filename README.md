@@ -11,17 +11,11 @@ January 8, 2022, https://www.pcmag.com/how-to/what-is-the-environmental-impact-o
 #
 "More and more computing power is needed to mine bitcoin, which requires more and more electricity. ASICs can be used to supercharge your mining, which uses even more electricity, and if bitcoin's price rises, it becomes even more profitable to mine, which causes more miners to jump into the game."
 #
-There is also a volatility concern.  Add citations.  Add machine learning  algorithm for prediction of cryptocurrency prices.
-
-From  Logan Kugler
-Communications of the ACM, July 2018, Vol. 61 No. 7, Pages 15-17
-10.1145/3213762, https://cacm.acm.org/magazines/2018/7/229045-why-cryptocurrencies-use-so-much-energy/fulltext
-#
 Why Cryptocurrencies Use So Much Energy
 #
-"In recent months, bitcoin and other cryptocurrencies have plunged in value, yet the market capitalization for these digital currencies is still valued at hundreds of billions of dollars. That market cap has grown more than 20 times since last year, when the cryptocurrency boom began.
-#
 ![digi](https://github.com/jcsargis00/NFT-Research/blob/main/images/somuchenergy.PNG)
+#
+In recent months, bitcoin and other cryptocurrencies have plunged in value, yet the market capitalization for these digital currencies is still valued at hundreds of billions of dollars. That market cap has grown more than 20 times since last year, when the cryptocurrency boom began.
 #
 Digital currencies were made to be difficult to mine and take a lot of computing power to generate so no one person or group could take control of the entire network. This feature is part of what makes cryptocurrencies decentralized, meaning they have no single point of control. Popular cryptocurrencies like Bitcoin and Ethereum operate on what’s called a proof of work (PoW) system, which relies on people having to solve equations of varying difficulty to mine new coins and add new blocks of information to a digital currency's blockchain. This system was developed, in part, to counteract cyberattacks where one person creates a host of fake identities and uses them to take over a majority of the network.
 #
@@ -29,8 +23,7 @@ Because everyone on the network is fighting to be the first to solve these equat
 #
 The price and availability of electricity can also affect the volume of cryptocurrency mining operations. If electricity is cheaper in one country (or even part of a country) than another, it makes sense from a business standpoint to centralize mining operations there. 
 With bitcoin's booming popularity comes problems. Speculation in bitcoin and other cryptocurrencies is rampant. Scams abound, and plenty of initial coin offerings (ICOs) have overpromised or underdelivered spectacularly.
-#
-Through it all, the world has focused on how bitcoin and other cryptocurrencies could implode and go to zero—or make you rich—depending on who you ask. Yet another aspect to cryptocurrencies has not received as much attention.
+
 #
 A major issue that results from increased adoption has not been adequately addressed; they use a lot of energy. The "mining" process that creates bitcoin uses more energy than Serbia, says Digiconomist, a self-described "platform that provides in-depth analysis, opinions, and discussions with regard to bitcoin and other cryptocurrencies ... on a voluntary, best-effort basis.">
 #
@@ -40,8 +33,9 @@ As cryptocurrencies rise in price, the problem isn't going away. Right now, Digi
 #
 Other cryptocurrencies that are structured similarly to bitcoin use energy for mining, too. Bitcoin is the most popular and best known cryptocurrency, but it is not unique in its energy needs.
 #
-Some people wonder if cryptocurrencies will disrupt the financial system, while others wonder if they will break the environment in the process."  
-add glossary, references
+Some people wonder if cryptocurrencies will disrupt the financial system, while others wonder if they will break the environment in the process.  Ref. Logan Kugler Communications of the ACM, July 2018, Vol. 61 No. 7, Pages 15-17
+10.1145/3213762, https://cacm.acm.org/magazines/2018/7/229045-why-cryptocurrencies-use-so-much-energy/fulltext
+
 #
 #### Why does NFT minting with cryptocurrency use so much energy?
 * How does minting work?
