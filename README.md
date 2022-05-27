@@ -140,8 +140,7 @@ Cryptocurrency Prices by Market Cap - source Coin Gecko
 ![market](https://github.com/jcsargis00/NFT-Research/blob/main/images/crypmarketcapprice.PNG)
 ## Datasets
 https://github.com/jcsargis00/NFT-Research/tree/main/Resources/data
-#
-Financial Data from Coin Gecko
+### Financial Data from Coin Gecko
 #
 BTC Price Today
 - Bitcoin price today is $29,069.36 with a 24-hour trading volume of $34,128,213,186. 
