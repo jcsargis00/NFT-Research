@@ -106,14 +106,12 @@ Investors are expecting more volatility in ether (ETH) compared with bitcoin (BT
 #
 ![ethvola](https://github.com/jcsargis00/NFT-Research/blob/main/images/skew.PNG)
 #
-Ethereum price remains volatile as rival networks accrue more institutional capital (Ref. Finder)
-#
 ![shiraz](https://github.com/jcsargis00/NFT-Research/blob/main/images/shiraz.PNG)
 Bitcoin prices are highly volatile.
 #
 ![yah](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinyahoo.png)
 #
-How is energy consumed by Bitcoin calculated?
+### How is energy consumed by Bitcoin calculated?
 ![proc](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinprocess.PNG)
 #
 WHAT IS THE REAL CARBON FOOTPRINT OF THE BLOCKCHAIN?
