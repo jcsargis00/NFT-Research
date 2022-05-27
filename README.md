@@ -62,8 +62,7 @@ Does Ethereum use a lot of energy?
 #
 ![bit](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinenergy.PNG)
 #
-Country ranking by electricity use vs Bitcoin
-#
+
 ![rank](https://github.com/jcsargis00/NFT-Research/blob/main/images/userrankcountry.PNG)
 Ethereum prices are highly volatile and have been for quite some time.
 #
