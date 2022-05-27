@@ -137,6 +137,8 @@ Top 10 Cryptocurrencies chart is shown below:
 ## Datasets
 https://github.com/jcsargis00/NFT-Research/tree/main/Resources/data
 #
+Financial Data from Coin Gecko
+#
 BTC Price Today
 - Bitcoin price today is $29,069.36 with a 24-hour trading volume of $34,128,213,186. 
 - BTC price is down -2.6% in the last 24 hours. 
