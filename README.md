@@ -72,7 +72,7 @@ CryptoPunk NFTs
 ![kugler](https://github.com/jcsargis00/NFT-Research/blob/main/images/kugler.png)
 #
 ## **Some people wonder if cryptocurrencies will disrupt the financial system, while others wonder if they will break the environment in the process.**
-#### Why does NFT minting with cryptocurrency use so much energy?
+####  <span style="color:blue">Why does NFT minting with cryptocurrency use so much energy?</span>
 * How does minting work?
 ![bite](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinexp.png)
 #
