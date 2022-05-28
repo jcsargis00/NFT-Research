@@ -200,7 +200,7 @@ The tables include fields for energy usage and price changes
 * used Python to download the data from the Coinbase web site
 * Database was created with a table named power for power consumption data
 * the data for the date column needed to be converted from the European convention of DD/MM/YYY to MM/DD/YYYY
-![dates](https://github.com/jcsargis00/NFT-Research/blob/main/images/sqldate.PNG)
+![dates](https://github.com/jcsargis00/NFT-Research/blob/main/images/sqldates.PNG)
 * sample data in the database table
 ![table](https://github.com/jcsargis00/NFT-Research/blob/main/images/powertable.PNG)
 * schema for table power
