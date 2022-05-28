@@ -211,7 +211,8 @@ The tables include fields for energy usage and price changes
 * number of rows in table power
 #
 ![rows](https://github.com/jcsargis00/NFT-Research/blob/main/images/powerrows.PNG)
-Postgres is also the database for crypto pricing.
+#
+Postgres is also the database for cryptocurrency pricing.
 Fields of crypto pricing  model
 - Symbol -  symbol for which the timeseries data refers
 - Open -  the opening price of the time period
