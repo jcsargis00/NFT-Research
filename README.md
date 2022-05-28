@@ -211,8 +211,7 @@ The tables include fields for energy usage and price changes
 * number of rows in table power
 #
 ![rows](https://github.com/jcsargis00/NFT-Research/blob/main/images/powerrows.PNG)
-#
-Postgres is also the database for cryptocurrency pricing.
+#### Postgres is also the database for cryptocurrency pricing.
 Fields of crypto pricing  model
 - Symbol -  symbol for which the timeseries data refers
 - Open -  the opening price of the time period
@@ -221,15 +220,12 @@ Fields of crypto pricing  model
 - Close - This is the closing price of the time period
 - Volume (Crypto) - the volume in the transacted Ccy. Ie. For BTC/USD, this is in BTC amount
 - Volume Base Ccy - the volume in the base/converted ccy. Ie. For BTC/USD, this is in USD amount
-#
-Postgres sample table of crypto pricing model
+#### Postgres sample table of crypto pricing model
 ![pri](https://github.com/jcsargis00/NFT-Research/blob/main/images/cryptopricetable.PNG)
-#
-Using yahoo finance model from here.  Pull in pricing by cryptocurrency ticker name:
+#### Using yahoo finance model from here.  Pull in pricing by cryptocurrency ticker name:
 #
 ![yah](https://github.com/jcsargis00/NFT-Research/blob/main/images/yahoo.PNG)
-#
-Select top 6-10 cryptocurrencies used to make NFT's from this chart.
+#### Select top 6-10 cryptocurrencies used to make NFT's from this chart.
 #
 ![market](https://github.com/jcsargis00/NFT-Research/blob/main/images/cryptowissernftmarket.PNG)
 There are 51 rows in this table, need to determine the top cryptocurrencies in the NFT marketplace from this information (website https://www.cryptowisser.com/nft-marketplaces/)
