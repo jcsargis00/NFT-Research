@@ -198,6 +198,15 @@ How does this model work? TBD
 * There are 6 tables in the  database, four for power consumption tracking (environmental) and 2 for cyptocurrency price tracking (financial).
 The tables include fields for energy usage and price changes
 * used Python to download the data from the Coinbase web site
+* Database was created with a table named power for power consumption data
+* the data for the date column needed to be converted from the European convention of DD/MM/YYY to MM/DD/YYYY
+![dates](https://github.com/jcsargis00/NFT-Research/blob/main/images/sqldate.PNG)
+* sample data in the database table
+![table](https://github.com/jcsargis00/NFT-Research/blob/main/images/powertable.PNG)
+* schema for table power
+![tabsc](https://github.com/jcsargis00/NFT-Research/blob/main/images/powerschema.PNG)
+* number of rows in table power
+![rows](https://github.com/jcsargis00/NFT-Research/blob/main/images/powerrows.PNG)
 Postgres will be the database for crypto pricing.
 Fields of crypto pricing  model
 - Symbol -  symbol for which the timeseries data refers
@@ -219,6 +228,9 @@ Select top 6-10 cryptocurrencies used to make NFT's from this chart.
 #
 ![market](https://github.com/jcsargis00/NFT-Research/blob/main/images/cryptowissernftmarket.PNG)
 There are 51 rows in this table, need to determine the top cryptocurrencies in the NFT marketplace from this information (website https://www.cryptowisser.com/nft-marketplaces/)
+
+
+
 #### Machine Learning
 * SciKitLearn is the ML library to create a classifier. 
 * KMeans clustering algorithm to group similar currencies into classes.
