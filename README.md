@@ -191,15 +191,15 @@ How does this model work? TBD
 - Postgres
 #
 #### Data Cleaning and Analysis
-* Data Preprocessing  will involve selection, transformation,  and scaling of data.  Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
+* Data Preprocessing involve selection, transformation, and scaling of data.  Pandas was used to clean the data, replace null values and perform an exploratory analysis.
 
 #### Database Storage
-* Postgres will be the database for energy usage.
+* Postgres is the database for energy usage.
 * There are 6 tables in the  database, four for power consumption tracking (environmental) and 2 for cyptocurrency price tracking (financial).
 The tables include fields for energy usage and price changes
 * used Python to download the data from the Coinbase web site
 * Database was created with a table named power for power consumption data
-* the data for the date column needed to be converted from the European convention of DD/MM/YYY to MM/DD/YYYY, commands are shown below
+* the data for the date column needed to be converted from the European convention of DD/MM/YYY to MM/DD/YYYY, SQL commands are shown below.
 ![dates](https://github.com/jcsargis00/NFT-Research/blob/main/images/sqldates.PNG)
 * schema for table power
 ![tabsc](https://github.com/jcsargis00/NFT-Research/blob/main/images/powerschema.PNG)
@@ -208,7 +208,7 @@ The tables include fields for energy usage and price changes
 * number of rows in table power
 #
 ![rows](https://github.com/jcsargis00/NFT-Research/blob/main/images/powerrows.PNG)
-Postgres will be the database for crypto pricing.
+Postgres is also the database for crypto pricing.
 Fields of crypto pricing  model
 - Symbol -  symbol for which the timeseries data refers
 - Open -  the opening price of the time period
