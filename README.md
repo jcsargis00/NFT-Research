@@ -191,7 +191,7 @@ How does this model work? TBD
 - Postgres
 #
 #### Data Cleaning and Analysis
-* Data Preprocessing involve selection, transformation, and scaling of data.  Pandas was used to clean the data, replace null values and perform an exploratory analysis.
+* Data Preprocessing involved selection, transformation, and scaling of data.  Pandas was used to clean the data, replace null values and perform an exploratory analysis.
 
 #### Database Storage
 * Postgres is the database for energy usage.
