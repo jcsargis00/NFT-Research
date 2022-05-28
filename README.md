@@ -197,9 +197,11 @@ How does this model work? TBD
 * Postgres is the database for energy usage.
 * There are 6 tables in the  database, four for power consumption tracking (environmental) and 2 for cyptocurrency price tracking (financial).
 The tables include fields for energy usage and price changes
-* used Python to download the data from the Coinbase web site
+* Python was used to download the data from the Coinbase web site
 * Database was created with a table named power for power consumption data
-* the data for the date column needed to be converted from the European convention of DD/MM/YYY to MM/DD/YYYY, SQL commands are shown below.
+* Data was transformed and then imported into the power table in Postgresql
+* The data for the date column needed to be converted from the European convention of DD/MM/YYY to MM/DD/YYYY
+* SQL commands used to tranform the date column.  A power_id column was also added for a primary key.
 ![dates](https://github.com/jcsargis00/NFT-Research/blob/main/images/sqldates.PNG)
 * schema for table power
 ![tabsc](https://github.com/jcsargis00/NFT-Research/blob/main/images/powerschema.PNG)
