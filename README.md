@@ -223,7 +223,6 @@ Fields of crypto pricing  model
 #### Postgres sample table of crypto pricing model
 ![pri](https://github.com/jcsargis00/NFT-Research/blob/main/images/cryptopricetable.PNG)
 #### Using yahoo finance model from here.  Pull in pricing by cryptocurrency ticker name:
-#
 ![yah](https://github.com/jcsargis00/NFT-Research/blob/main/images/yahoo.PNG)
 #### Select top 6-10 cryptocurrencies used to make NFT's from this chart.
 #
