@@ -201,11 +201,12 @@ The tables include fields for energy usage and price changes
 * Database was created with a table named power for power consumption data
 * the data for the date column needed to be converted from the European convention of DD/MM/YYY to MM/DD/YYYY, commands are shown below
 ![dates](https://github.com/jcsargis00/NFT-Research/blob/main/images/sqldates.PNG)
-* sample data in the database table
-![table](https://github.com/jcsargis00/NFT-Research/blob/main/images/powertable.PNG)
 * schema for table power
 ![tabsc](https://github.com/jcsargis00/NFT-Research/blob/main/images/powerschema.PNG)
+* sample data in the database table
+![table](https://github.com/jcsargis00/NFT-Research/blob/main/images/powertable.PNG)
 * number of rows in table power
+#
 ![rows](https://github.com/jcsargis00/NFT-Research/blob/main/images/powerrows.PNG)
 Postgres will be the database for crypto pricing.
 Fields of crypto pricing  model
