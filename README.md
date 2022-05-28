@@ -200,8 +200,9 @@ The tables include fields for energy usage and price changes
 * Python was used to download the data from the Coinbase web site
 * Database was created with a table named power for power consumption data
 * Data was transformed and then imported into the power table in Postgresql
+* A power_id column with incremental integer numbering was added for a primary key
 * The data for the date column needed to be converted from the European convention of DD/MM/YYY to MM/DD/YYYY
-* SQL commands used to tranform the date column.  A power_id column was also added for a primary key.
+* SQL commands used to tranform the date column.  
 ![dates](https://github.com/jcsargis00/NFT-Research/blob/main/images/sqldates.PNG)
 * schema for table power
 ![tabsc](https://github.com/jcsargis00/NFT-Research/blob/main/images/powerschema.PNG)
