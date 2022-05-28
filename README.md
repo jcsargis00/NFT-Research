@@ -225,7 +225,6 @@ Fields of crypto pricing  model
 #### Using yahoo finance model from here.  Pull in pricing by cryptocurrency ticker name:
 ![yah](https://github.com/jcsargis00/NFT-Research/blob/main/images/yahoo.PNG)
 #### Select top 6-10 cryptocurrencies used to make NFT's from this chart.
-#
 ![market](https://github.com/jcsargis00/NFT-Research/blob/main/images/cryptowissernftmarket.PNG)
 There are 51 rows in this table, need to determine the top cryptocurrencies in the NFT marketplace from this information (website https://www.cryptowisser.com/nft-marketplaces/)
 
