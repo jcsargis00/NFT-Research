@@ -115,6 +115,8 @@ Financial Dataset
 - Ethereum had an all time low of $0.432979 on Oct 20, 2015 (over 6 years).
 #
 ![ethbtc](https://github.com/jcsargis00/NFT-Research/blob/main/images/ethbtcprice.PNG)
+#
+![corr](https://github.com/jcsargis00/NFT-Research/blob/main/images/cryptocorrelation.PNG)
 #### Bitcoin Data Mining Map - world locations  Ref-Cambridge Bitcoin Electricity Consumption Index
 ![map](https://github.com/jcsargis00/NFT-Research/blob/main/images/btcmap.PNG)
 #
