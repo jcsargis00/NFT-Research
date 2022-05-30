@@ -186,14 +186,9 @@ What is the model's accuracy?
 How does this model work? 
 ### Github communication protocols
 I am working solo and performing all of the 4 roles.
-
 * Square role will be responsible for setting up the repository. This includes naming the repository and adding team members, which is just me.
 * Triangle role - responsible for creating a simple machine learning model. Creating a simple model this early in the design process helps a team better understand where and how a machine learning model will fit into the project. This also grants more time to work out the specifics related to machine learning.
-
-
-
 * Circle role - in charge of the mockup database. 
-
 * X role - selection of technology for the project. 
 #
 ## Technologies Used
