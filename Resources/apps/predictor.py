@@ -17,7 +17,7 @@ from tensorflow.keras.models import Sequential
 from tensorflow.python.keras.backend import shape
 
 #The cryptocurrency to be predicted and base currency is defined here
-crypto_currency = "BTC"
+crypto_currency = "ETH"
 against_currency = "USD"
 
 #Start and end date for test data
