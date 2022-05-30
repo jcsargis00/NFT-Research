@@ -163,21 +163,34 @@ https://github.com/jcsargis00/NFT-Research/tree/main/Resources/data
 ### Machine Learning application 
 Electric energy consumption prediction using Machine Learning Household Electricity consumption 
 ##### Data source https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set?resource=download
+They were measurements of electric power consumption in one household with a one-minute sampling rate over almost 4 years, from December 2006 to November 2010. Different electrical quantities and some sub-metering values were available.  Power consumption data was collected every minute.  The dataset is a multivariate time series.
+##### Schema for the data
+- date
+- time
+- global_active_power: The total active power consumed by the household (kilowatts).
+- global_reactive_power: The total reactive power consumed by the household (kilowatts).
+- voltage: Average voltage (volts).
+- global_intensity: Average current intensity (amps).
+- sub_metering_1: Active energy for the kitchen (watt-hours of active energy).
+- sub_metering_2: Active energy for laundry (watt-hours of active energy).
+- sub_metering_3: Active energy for climate control systems (watt-hours of active energy).
+##### LSTM model was built to predict household electric power consumption. Dropout layers were added to improve the model.  The first year of data (resampled over an hour) was used to train the model and the rest of the data to test the model to reduce the computation time and get some results quickly.
+##### Which model did you choose and why?
+* Simple Regression/ Clustering, good fit for the  problem.  After plotting each ticker over a period of time, we can use machine learning to predict future pricing.  This calculation will also be performed on energy consumption versus popularity of NFTs, to predict future energy consumption.  Finally, an alternative solution will be presented to create NFTs with green technology.
+#
+How are you training your model?
+* After scaling, 75% of data was used for training, 25% of data was used for testing
+#
+What is the model's accuracy? 
+#
+How does this model work? 
 ### Github communication protocols
 I am working solo and performing all of the 4 roles.
 
 * Square role will be responsible for setting up the repository. This includes naming the repository and adding team members, which is just me.
 * Triangle role - responsible for creating a simple machine learning model. Creating a simple model this early in the design process helps a team better understand where and how a machine learning model will fit into the project. This also grants more time to work out the specifics related to machine learning.
 
-Which model did you choose and why?
-* Simple Regression/ Clustering, good fit for the  problem.  After plotting each ticker over a period of time, we can use machine learning to predict future pricing.  This calculation will also be performed on energy consumption versus popularity of NFTs, to predict future energy consumption.  Finally, an alternative solution will be presented to create NFTs with green technology.
-#
-How are you training your model?
-* After scaling, 75% of data will be used for training, 25% of data will be used for testing
-#
-What is the model's accuracy? TBD
-#
-How does this model work? TBD
+
 
 * Circle role - in charge of the mockup database. 
 
