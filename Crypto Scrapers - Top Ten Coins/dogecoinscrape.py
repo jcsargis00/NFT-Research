@@ -1,7 +1,8 @@
 import requests
 import json
 import pandas as pd
-api_url= 'https://api.coinmarketcap.com/data-api/v3/cryptocurrency/historical?id=1&convertId=2781&timeStart=1496112218&timeEnd=1653878618'
+import plotly.express as px
+api_url= 'https://api.coinmarketcap.com/data-api/v3/cryptocurrency/historical?id=10&convertId=2781&timeStart=1643514218&timeEnd=1653878618'
 r = requests.get(api_url)
 data = []
 for item in r.json()['data']['quotes']:
@@ -17,5 +18,7 @@ cols = ["close", "volume","date","high","low"]
 
 df = pd.DataFrame(data, columns= cols)
 print(df)
-df.to_csv('info.csv',index = False)
+df.to_csv('doge.csv',index = False)
+fig=px.line(df, x='date',y="close")
+fig.show()
 
