@@ -130,7 +130,7 @@ app.layout = html.Div(children=[
     [Input('ticker-drop','value')]
 )
 @app.callback(
-    Output('three-title','children'),
+    Output('three-title','children'), 
     Output('three-link', 'href'),
     Output('three-published', 'children'),
     [Input('ticker-drop','value')]
@@ -166,7 +166,6 @@ def open_close_graph(value):
     lw=df['Low'].round(0)
     cl=df['Close'].round(0)
     vol=df['Volume'].round(0)
-
     return op, hg, lw, cl, vol
 
 
