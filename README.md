@@ -19,7 +19,7 @@
 ![volt](https://github.com/jcsargis00/NFT-Research/blob/main/images/voltaire.png)
 ##### Glossary
 * Beeple - Pseudonym for Mike Winkelmann, perhaps the most well known digital artist. Beeple’s Everydays: the First 5000 Days sold for $69,400,000, the current record for most expensive NFT.
-###### Beeple's Everydays: the First 5000 Days
+##### Beeple's Everydays: the First 5000 Days
 ![beep](https://github.com/jcsargis00/NFT-Research/blob/main/images/everyday.PNG)
 * Bitcoin (with a capitalised B) - an open software protocol and peer-to-peer (P2P) network that enables users to transact online without relying on trusted intermediaries. The system is permissionless since it operates without a central authority, allowing anyone in the world to send, store, and receive digital tokens of value without prior approval.
 * Bitcoin blockchain is the public ledger that records all Bitcoin transactions. Effectively a shared database, it is collectively maintained by tens of thousands of computers called full nodes. The ledger is organised using a particular data structure which bundles transactions into a data block that is cryptographically linked to the previous block. Over time, this process results in a growing chain of blocks that is extended by special actors called miners, who append new blocks in anticipation of financial rewards. The use of this specific data structure ensures that tampering with the transaction history (e.g. modifying past transactions) will be detected immediately by other network participants as the linked block hashes do not add up.
