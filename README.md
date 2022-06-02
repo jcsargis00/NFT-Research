@@ -11,7 +11,7 @@
 * Why does NFT minting with cryptocurrency use so much energy?
 * Which cryptocurrencies are used the most to mint NFTs?
 * Do the most used cryptocurrencies use a lot of energy?  Are their prices volatile?  Let's look at the data
-* Is cryptocurrency volatile?  Let's look at the data by of the top 10 cryptocurrencies and scrape CoinGecko, CoinCapMarket and a few other sites for data
+* Is cryptocurrency volatile?  Let's look at the data of the top 10 cryptocurrencies and scrape CoinGecko, CoinCapMarket and a few other sites for data
 * Do NFTs use a lot of energy to mint?
 * Can we predict future energy usage using Machine Learning?
 #
