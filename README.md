@@ -90,8 +90,8 @@ Investors are expecting more volatility in Ethereum (ETH) compared with Bitcoin 
 ![yah](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinyahoo.png)
 #
 ### What happens to my crypto if the platform goes bankrupt?
-![bar](https://github.com/jcsargis00/NFT-Research/blob/main/images/barrons.png)
-![bank](https://github.com/jcsargis00/NFT-Research/blob/main/images/bank.png)
+![bar](https://github.com/jcsargis00/NFT-Research/blob/main/images/barrons.PNG)
+![bank](https://github.com/jcsargis00/NFT-Research/blob/main/images/bank.PNG)
 ### How is energy consumed by Bitcoin calculated?
 ![proc](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinprocess.PNG)
 #
