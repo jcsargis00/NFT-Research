@@ -106,8 +106,8 @@ Investors are expecting more volatility in ether (ETH) compared with bitcoin (BT
 Nothing. Millions of people have seen Beeple's art that sold for $69m and the image has been copied and shared countless times.
 In many cases, the artist retains the copyright ownership of their work, so they can continue to produce and sell copies.
 But the buyer of the NFT owns a "token" that proves they own the "original" work. Some people compare it to buying an autographed print. Ref. BBC
-### Can the founders of an NFT ruin the company?
-![pen](https://github.com/jcsargis00/NFT-Research/blob/main/images/penguins.PNG)
+### Can the founders of an NFT series ruin the company?
+![pen](https://github.com/jcsargis00/NFT-Research/blob/main/images/penguins.png)
 ### How is energy consumed by Bitcoin calculated?
 ![proc](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinprocess.PNG)
 #
