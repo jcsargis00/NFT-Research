@@ -11,7 +11,7 @@
 * Why does NFT minting with cryptocurrency use so much energy?
 * Which cryptocurrencies are used the most to mint NFTs?
 * Do the most used cryptocurrencies use a lot of energy?  Are their prices volatile?  Let's look at the data
-* Is cryptocurrency volatile?  Let's look at the data of the top 10 cryptocurrencies and scrape CoinGecko, CoinCapMarket and a few other sites for data
+* Is cryptocurrency volatile?  Let's look at the data by of the top 10 cryptocurrencies and scrape CoinGecko, CoinCapMarket and a few other sites for data
 * Do NFTs use a lot of energy to mint?
 * Can we predict future energy usage using Machine Learning?
 #
@@ -28,10 +28,15 @@
 ###### Steph Curry Bored Ape NFT - purchase price $180,000
 ![curry](https://github.com/jcsargis00/NFT-Research/blob/main/images/curry.PNG)
 * Cryptocurrency - cryptocurrency, crypto-currency, crypto, or coin is a digital currency designed to work as a medium of exchange through a computer network that is not reliant on any central authority, such as a government or bank, to uphold or maintain it.
+*
+CryptoKitties - a viral blockchain game on Ethereum developed by Canadian studio Dapper Labs that allows players to purchase, collect, breed and sell virtual cats.
+![meow](https://github.com/jcsargis00/NFT-Research/blob/main/images/cryptokitties.PNG)
 * CryptoPunk - A unique collectible avatar stored on Ethereum. There are three CryptoPunks listed in the top 10 most expensive NFTs ever sold.
 ###### CryptoPunk NFTs
 ![punk](https://github.com/jcsargis00/NFT-Research/blob/main/images/punks.PNG)
 * Digital Wallet (or electronic wallet) - a financial transaction application that runs on mobile devices. It securely stores your payment information and passwords. These applications allow you to pay when you're shopping using your device so that you don't need to carry your cards around. You enter and store your credit card, debit card, or bank account information and can then use your device to pay for purchases.
+* Disaster girl - an NFT of Zoe Roth, at age 4, in front of a burning house and a firetruck. She's looking back at the camera laughing, leaving the viewer to suspect she had something to do with this disaster. in reality, the fire scene was part of a training exercise for firefighters in Mebane, N.C., near where Zoë and her father, Dave Roth, lived.  The NFT launched many memes and sold for $500k to 3F Music, a music studio based in Dubai, United Arab Emirates.
+![dis](https://github.com/jcsargis00/NFT-Research/blob/main/images/disaster.PNG)
 * Discord - An instant messaging platform and the go-to place for discussing NFTs.
 * ERC-721 - A token standard that allows for the creation of unique, non-fungible tokens. It differs from ERC-20, for example, which is used to mint fungible tokens.
 * Ethereum - A blockchain with smart contract functionality. Ethereum is currently the main platform for NFT projects.
@@ -75,9 +80,9 @@ Does Ethereum use a lot of energy?
 
 ![rank](https://github.com/jcsargis00/NFT-Research/blob/main/images/userrankcountry.PNG)
 ### Ethereum prices are highly volatile and have been for quite some time.
-#### 'Potential big move' - but not necessarily up - Ref. Coindesk 9/14/2021
-Investors are expecting more volatility in Ethereum (ETH) compared with Bitcoin (BTC), according to a key metric, with the measure of risk at a six-month high amid a boom in decentralized finance (DeFi).
-* The three-month spread between Ethereum's volatility and Bitcoin's has risen to 29%, the highest level since Feb. 23, according to data source Skew.  
+'Potential big move' - but not necessarily up - Ref. Coindesk 9/14/2021
+Investors are expecting more volatility in ether (ETH) compared with bitcoin (BTC), according to a key metric, with the measure of risk at a six-month high amid a boom in decentralized finance (DeFi).
+* The three-month spread between ether's volatility and bitcoin's has risen to 29%, the highest level since Feb. 23, according to data source Skew.  
 * The metric, which tracks the difference in implied volatility for at-the-money options in both cryptocurrencies, has risen from -2.4% to 29% in two months. 
 * Implied volatility is calculated from options prices and shows the market's opinion of the underlying asset’s potential moves. It is often considered a proxy of market risk.  
 #
@@ -89,7 +94,8 @@ Investors are expecting more volatility in Ethereum (ETH) compared with Bitcoin 
 #
 ![yah](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinyahoo.png)
 #
-### What happens to my crypto if the platform goes bankrupt?
+### what happens to my Crpyto if the  Platform goes Bankrupt?
+#
 ![bar](https://github.com/jcsargis00/NFT-Research/blob/main/images/barrons.PNG)
 ![bank](https://github.com/jcsargis00/NFT-Research/blob/main/images/bank.PNG)
 ### How is energy consumed by Bitcoin calculated?
