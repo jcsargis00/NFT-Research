@@ -7,15 +7,14 @@
 ### Outline    
 #### Presentation
 * Glossary - Let's start with explaining the terminology in plain English with examples
-* Why do cryptocurrencies use so much energy?  Let's research how this works
-* Why does NFT minting with cryptocurrency use so much energy?
-* Which cryptocurrencies are used the most to mint NFTs?
-* Do the most used cryptocurrencies use a lot of energy?  Are their prices volatile?  Let's look at the data
-* Is cryptocurrency volatile?  Let's look at the data by of the top 10 cryptocurrencies and scrape CoinGecko, CoinCapMarket and a few other sites for data
-* Do NFTs use a lot of energy to mint?
-* Can we predict future energy usage using Machine Learning?
+* Why do cryptocurrencies use so much energy?  Data about Bitcoin carbon footprints can answer this questioni
+* Why does NFT minting with cryptocurrency use so much energy?  NFT minting with excessive energy consumption is linked to cryptocurrency, where energy consumption data can be analyzed
+* Which cryptocurrencies are used the most to mint NFTs?  This question can be answered with screen scaping crypto.com
+* Do the most used cryptocurrencies use a lot of energy?  Are crypto prices volatile?  Let's look at the data
+* Is cryptocurrency volatile?  The time series data about the top 10 cryptocurrencies can be scraped from CoinGecko, CoinCapMarket and a few other sites to answer this question
+* Can we predict future energy usage using Machine Learning?  Historical data from UC Irine can be used in ML studies to answer this question
 #
-#### Let's start with a glossary (Ref. Investopedia https://www.investopedia.com/)
+#### A brief NFT and Cryptocurrency Glossary (Ref. Investopedia https://www.investopedia.com/)
 ![volt](https://github.com/jcsargis00/NFT-Research/blob/main/images/voltaire.png)
 ##### Glossary
 * Beeple - Pseudonym for Mike Winkelmann, perhaps the most well known digital artist. Beeple’s Everydays: the First 5000 Days sold for $69,400,000, the current record for most expensive NFT.
@@ -102,7 +101,7 @@ Investors are expecting more volatility in ether (ETH) compared with bitcoin (BT
 #
 ![bar](https://github.com/jcsargis00/NFT-Research/blob/main/images/barrons.PNG)
 ![bank](https://github.com/jcsargis00/NFT-Research/blob/main/images/bank.PNG)
-### What's stopping people copying the digital art?
+### What's stopping people from copying the digital art?
 Nothing. Millions of people have seen Beeple's art that sold for $69m and the image has been copied and shared countless times.
 In many cases, the artist retains the copyright ownership of their work, so they can continue to produce and sell copies.
 But the buyer of the NFT owns a "token" that proves they own the "original" work. Some people compare it to buying an autographed print. Ref. BBC
@@ -130,6 +129,8 @@ Financial Dataset
 - The global cryptocurrency market cap today (5/26/22) is $1.29 Trillion, a -3.0% change in the last 24 hours.
 #### Top 10 Cryptocurrencies
 ![market](https://github.com/jcsargis00/NFT-Research/blob/main/images/crypmarketcapprice.PNG)
+#### Interactive Top Ten Cryptocurrency Price Dashboard
+
 ### Financial Data from Coin Gecko
 #### BTC Price Today
 - Bitcoin price today is $29,069.36 with a 24-hour trading volume of $34,128,213,186. 
