@@ -53,6 +53,8 @@ CryptoKitties - a viral blockchain game on Ethereum developed by Canadian studio
 ![nyan](https://github.com/jcsargis00/NFT-Research/blob/main/images/nyancat.PNG)
 * NFT - A non-fungible token is a financial security consisting of digital data stored in a blockchain, a form of distributed ledger. The ownership of an NFT is recorded in the blockchain, and can be transferred by the owner, allowing NFTs to be sold and traded.
 * OpenSea - Launched in 2018, OpenSea is the first and largest NFT marketplace, boasting four million assets and 135+ DApps.
+* Pudgy Penguins - Launched in July 2021, Pudgy Penguin is a series of 8,888 unique collectible penguins created on the Ethereum blockchain. The collection’s items were minted for 0.03 ETH each and sold out in less than 20 minutes, according to the project’s website. Pudgy Penguins has burst in popularity since its debut, garnering more than 45,400 ETH (worth around $150 million) in sales on the leading NFT marketplace OpenSea. The project has also gained good publicity, being featured on prominent outlets including the New York Times, CNBC, and Bloomberg.
+![peng](https://github.com/jcsargis00/NFT-Research/blob/main/images/pudgypenguins.PNG)
 * Proof-of-work puzzle -Solving the proof-of-work puzzle requires miners to exhaust all possible options until a random number — called a nonce in technical jargon — is found that meets the network difficulty target. Rather than guessing numbers manually, miners use special hardware equipment to quickly generate potential solutions.
 * Rarible - A community-owned NFT marketplace founded in 2020. The Moscow-based platform mostly hosts digital art, and is fuelled by its native ERC-20 token RARI.
 * Royalties - Money earned by an NFT creator through the token’s resale. Some NFTs automatically pay royalties each time an NFT is sold. An NFT can be hardcoded to pay an artist royalties forever, an interesting use case that has the potential to shake up the music industry.
@@ -104,6 +106,8 @@ Investors are expecting more volatility in ether (ETH) compared with bitcoin (BT
 Nothing. Millions of people have seen Beeple's art that sold for $69m and the image has been copied and shared countless times.
 In many cases, the artist retains the copyright ownership of their work, so they can continue to produce and sell copies.
 But the buyer of the NFT owns a "token" that proves they own the "original" work. Some people compare it to buying an autographed print. Ref. BBC
+* Can the founders of an NFT ruin the company?
+![pen](https://github.com/jcsargis00/NFT-Research/blob/main/images/penguins.PNG)
 ### How is energy consumed by Bitcoin calculated?
 ![proc](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinprocess.PNG)
 #
