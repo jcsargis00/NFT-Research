@@ -96,11 +96,11 @@ Investors are expecting more volatility in ether (ETH) compared with bitcoin (BT
 #
 ![yah](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinyahoo.png)
 #
-### what happens to my Crpyto if the  Platform goes Bankrupt?
+### What happens to my Crpyto if the  Platform goes Bankrupt?
 #
 ![bar](https://github.com/jcsargis00/NFT-Research/blob/main/images/barrons.PNG)
 ![bank](https://github.com/jcsargis00/NFT-Research/blob/main/images/bank.PNG)
-### *What's stopping people copying the digital art?
+### What's stopping people copying the digital art?
 Nothing. Millions of people have seen Beeple's art that sold for $69m and the image has been copied and shared countless times.
 In many cases, the artist retains the copyright ownership of their work, so they can continue to produce and sell copies.
 But the buyer of the NFT owns a "token" that proves they own the "original" work. Some people compare it to buying an autographed print. Ref. BBC
