@@ -111,7 +111,7 @@ But the buyer of the NFT owns a "token" that proves they own the "original" work
 ### How is energy consumed by Bitcoin calculated?
 ![proc](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinprocess.PNG)
 #
-### WHAT IS THE REAL CARBON FOOTPRINT OF THE BLOCKCHAIN?
+### What is the real carbon footprint of the blockchain?
 - Proof-of-work blockchain networks consume a very large amount of energy, which results in a very large amount of carbon being emitted. 
 - Best estimates place bitcoin around 45.8 TWh, emitting around 45,800,000 Tonnes of CO2 per year. 
 - The annual power consumption from Ethereum activity is estimated to be 9.62TWh from September '19 - '20.
