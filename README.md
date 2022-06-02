@@ -98,7 +98,7 @@ Investors are expecting more volatility in ether (ETH) compared with bitcoin (BT
 #
 ![yah](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinyahoo.png)
 #
-### What happens to my Crpyto if the  Platform goes Bankrupt?
+### What happens to my Crypto if the  Platform goes Bankrupt?
 #
 ![bar](https://github.com/jcsargis00/NFT-Research/blob/main/images/barrons.PNG)
 ![bank](https://github.com/jcsargis00/NFT-Research/blob/main/images/bank.PNG)
