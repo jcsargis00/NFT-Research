@@ -75,9 +75,9 @@ Does Ethereum use a lot of energy?
 
 ![rank](https://github.com/jcsargis00/NFT-Research/blob/main/images/userrankcountry.PNG)
 ### Ethereum prices are highly volatile and have been for quite some time.
-'Potential big move' - but not necessarily up - Ref. Coindesk 9/14/2021
-Investors are expecting more volatility in ether (ETH) compared with bitcoin (BTC), according to a key metric, with the measure of risk at a six-month high amid a boom in decentralized finance (DeFi).
-* The three-month spread between ether's volatility and bitcoin's has risen to 29%, the highest level since Feb. 23, according to data source Skew.  
+#### 'Potential big move' - but not necessarily up - Ref. Coindesk 9/14/2021
+Investors are expecting more volatility in Ethereum (ETH) compared with Bitcoin (BTC), according to a key metric, with the measure of risk at a six-month high amid a boom in decentralized finance (DeFi).
+* The three-month spread between Ethereum's volatility and Bitcoin's has risen to 29%, the highest level since Feb. 23, according to data source Skew.  
 * The metric, which tracks the difference in implied volatility for at-the-money options in both cryptocurrencies, has risen from -2.4% to 29% in two months. 
 * Implied volatility is calculated from options prices and shows the market's opinion of the underlying asset’s potential moves. It is often considered a proxy of market risk.  
 #
