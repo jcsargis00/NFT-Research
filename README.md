@@ -108,6 +108,8 @@ In many cases, the artist retains the copyright ownership of their work, so they
 But the buyer of the NFT owns a "token" that proves they own the "original" work. Some people compare it to buying an autographed print. Ref. BBC
 ### Can the founders of an NFT series ruin the company?
 ![pen](https://github.com/jcsargis00/NFT-Research/blob/main/images/penguins.png)
+### Have there been cases of insider trading on the NFT platforms?
+![ins](https://github.com/jcsargis00/NFT-Research/blob/main/images/insider.png)
 ### How is energy consumed by Bitcoin calculated?
 ![proc](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinprocess.PNG)
 #
