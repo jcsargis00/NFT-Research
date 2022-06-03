@@ -88,8 +88,4 @@ wrapt==1.12.1
 yahoo-fin==0.8.8
 yarl==1.6.3
 yfinance==0.1.59
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
+
