@@ -2,7 +2,7 @@ import datetime
 import dash
 from dash import dcc
 from dash.dependencies import Input, Output, State
-import dash_core_components as dcc
+# import dash_core_components as dcc
 import dash_html_components as html
 from dash import html
 import pandas as pd
