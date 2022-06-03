@@ -1,8 +1,7 @@
 
 import datetime
 import dash
-import dash_core_components as dcc
-import dash_html_components as html
+from dash import dcc
 from dash.dependencies import Input, Output, State
 from dash import html
 import pandas as pd
@@ -15,6 +14,7 @@ import plotly.graph_objects as go
 START = "2018-01-01"
 #TODAY = date.today().strftime("%Y-%m-%d")
 TODAY = datetime.datetime.now().strftime("%Y-%m-%d")
+FTODAY=datetime.datetime.now().strftime("%m-%d-%Y")
 API_KEY = 'T6X62ZNC78VB55YK'
 IMGE = 'assets/nft.PNG'
 # ccys = ["BTC", "ETH", "USDT", "USDC","BNB","XRP", "ADA", "BUSD", "SOL", "DOGE"]
@@ -41,7 +41,7 @@ server = app.server
 app.layout = html.Div(children=[
                 html.Div(children=[
                     html.H2(children='Cryptocurrency Latest News Dashboard'),
-                    html.H4(children='Data from Jan 2018 thru date '+TODAY, style={'marginTop': '-15px', }),
+                    html.H4(children='Data from 01-01-2018 thru '+FTODAY, style={'marginTop': '-15px', }),
                     ], style={'textAlign': 'center'}),
 
                 html.Div(children=[
@@ -55,6 +55,7 @@ app.layout = html.Div(children=[
                                 className= "mb-3"
                             ),
                     ],),
+                    html.Hr(),                
                 ],className="three columns",
                 style={'padding':'2rem', 'margin':'1rem', 'boxShadow': '#e3e3e3 4px 4px 2px', 'border-radius': '10px', 'marginTop': '2rem'} ),
                                
@@ -86,7 +87,7 @@ app.layout = html.Div(children=[
                         html.Div(children=[
                                     html.H3(id='volume-sb', style={'fontWeight': 'bold', 'color': '#0fa'}),
                                     html.Label('Volume of shares', style={'paddingTop': '.3rem'}),
-                        ], className="two columns number-stat-box")],
+                        ], className="three columns number-stat-box")],
                         style= {'margin':'1rem', 'display': 'flex', 'justify-content': 'space-between', 'width': '100%', 'flex-wrap': 'wrap'}),
 
                     #OH & LC Graphs
@@ -112,20 +113,6 @@ app.layout = html.Div(children=[
 #--------------------------
 #Callbacks
 
-@app.callback(
-    Output('two-title','children'),
-    Output('two-link', 'href'),
-    Output('two-published', 'children'),
-    [Input('ticker-drop','value')]
-)
-@app.callback(
-    Output('three-title','children'), 
-    Output('three-link', 'href'),
-    Output('three-published', 'children'),
-    [Input('ticker-drop','value')]
-)
-#callbacks for graphs
-#callback for open/close graph
 @app.callback(
     #Output('open-close-fig','figure'),
     #Output('high-low-fig','figure'),
@@ -174,7 +161,7 @@ def ohlc_graph(value):
         low=df['Low'], close=df['Close'],
         increasing_line_color= 'cyan', decreasing_line_color= '#33ff00'
     )])
-    fig.layout.update(title=f'OHLC chart for {value} from Jan 2018 thru date '+TODAY, 
+    fig.layout.update(title=f'OHLC chart for {value} from 01-01-2018 thru '+FTODAY, 
         title_font_size= 23,
         xaxis_title='Date',
         yaxis_title= 'Price in USD($)')
