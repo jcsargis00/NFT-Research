@@ -1,5 +1,6 @@
 import datetime
-#import dash
+from gettext import install
+pip install dash
 from dash import dcc
 from dash.dependencies import Input, Output, State
 from dash import html
