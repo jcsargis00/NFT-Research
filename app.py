@@ -1,25 +1,15 @@
 
 import datetime
-import math
-from yahoo_fin import news
 import dash
 from dash import dcc
 #import dash_core_components as dcc
 from dash import html
 #import dash_html_components as html
-import dash_bootstrap_components as dbc
-from dash.dependencies import Input, Output,State
+from dash.dependencies import Input, Output
 import pandas as pd
-import numpy as np
 import yfinance as yf
-from dash.exceptions import PreventUpdate
 import plotly.graph_objects as go
-from sklearn.preprocessing import MinMaxScaler
-import tensorflow as tf
 #from alpha_vantage.timeseries import TimeSeries
-from alpha_vantage.cryptocurrencies import CryptoCurrencies
-
-import pandas_datareader.data as web
 
 
 #Constants to download data
