@@ -215,15 +215,21 @@ They were measurements of electric power consumption in one household with a one
 ##### LSTM model was built to predict household electric power consumption. Dropout layers were added to improve the model.  The first year of data (resampled over an hour) was used to train the model and the rest of the data to test the model to reduce the computation time and get some results quickly.
 ##### Which model did you choose and why?
 * Simple Regression/ Clustering, good fit for the  problem.  After plotting each ticker over a period of time, we can use machine learning to predict future pricing.  This calculation will also be performed on energy consumption versus popularity of NFTs, to predict future energy consumption.  Finally, an alternative solution will be presented to create NFTs with green technology.
-##### Architecture of Model
+##### Architecture of Model - CNN LSTM
+How does this model work? A CNN (Convolutional Neural Network) LSTM (Long-Term Short Term Memory) can be used when time series data is too extensive, leading to a ML problem known as vanishing gradient.
 ![LSTM](https://github.com/jcsargis00/NFT-Research/blob/main/images/LSTMmodel.png)
 #
-How are you training your model?
-* After scaling, 75% of data was used for training, 25% of data was used for testing
+This model is used to make a predictive model for electricity.  The dataset can be imported into a Postgresql table or read in as a csv file using Pandas.  Both methods are here (https://github.com/jcsargis00/NFT-Research/tree/main/Machine%20Learning%20-%20Power%20Consumption), in addition to Pandas to Postgresql and Postgresql to Pandas examples. 
 #
-What is the model's accuracy? 
+The first layer of the CNN extracts the features from the dataset.  After identifying features, the algorithm reduces the size of the data associated with each variable to minimize the size and speed up the time needed for the calculation, a mathematical function known as convoluting. For a time series dataset (time varying data), predictions of what will happen in the future can be made if it is possible to determine what happened at times in the past by using an LSTM.  The LSTM uses relevant historical information to recent information for prediction.  In other words, the LSTM framework is designed to use relevant information, not all information. LSTM networks uses the sigmoid function.
+
+##### How are you training your model?
+* Approximately 75% of data was used for training, 25% of data was used for testing
 #
-How does this model work? 
+##### What is the model's accuracy? 
+#
+To improve the model, experimentation adjusting epochs and batch_size is performed.
+
 ### Github communication protocols
 I am working solo and performing all of the 4 roles.
 * Square role will be responsible for setting up the repository. This includes naming the repository and adding team members, which is just me.
