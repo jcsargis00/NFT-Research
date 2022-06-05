@@ -218,7 +218,7 @@ They were measurements of electric power consumption in one household with a one
 - sub_metering_3: Active energy for climate control systems (watt-hours of active energy).
 ##### LSTM model was built to predict household electric power consumption. Dropout layers were added to improve the model.  The first year of data (resampled over an hour) was used to train the model and the rest of the data to test the model to reduce the computation time and get some results quickly.
 ##### Which model did you choose and why?
-* Simple Regression/ Clustering, good fit for the  problem.  After plotting each ticker over a period of time, we can use machine learning to predict future pricing.  This calculation will also be performed on energy consumption versus popularity of NFTs, to predict future energy consumption.  Finally, an alternative solution will be presented to create NFTs with green technology.
+* Simple Regression/ Clustering, good fit for the  problem.  After plotting each ticker over a period of time, we can use machine learning to predict future pricing.  
 ##### Architecture of Model - CNN LSTM
 How does this model work? A CNN (Convolutional Neural Network) LSTM (Long-Term Short Term Memory) can be used when time series data is too extensive, leading to a ML problem known as vanishing gradient.
 ![LSTM](https://github.com/jcsargis00/NFT-Research/blob/main/images/LSTMmodel.png)
