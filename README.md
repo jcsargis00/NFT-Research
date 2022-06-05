@@ -231,7 +231,7 @@ A second model was created to use machine learning to predict the future price o
 #
 ##### What is the model's accuracy? 
 #
-To improve the model, experimentation adjusting epochs and batch_size is performed.  25 nodes and 800 epochs were input.
+To improve the model, experimentation adjusting epochs and batch_size is performed.  25 nodes and 800 epochs were input for the results in the plots below.
 ![mlacc](https://github.com/jcsargis00/NFT-Research/blob/main/images/mlacc.PNG)
 
 ### Github communication protocols
