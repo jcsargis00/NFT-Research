@@ -124,7 +124,7 @@ But the buyer of the NFT owns a "token" that proves they own the "original" work
 * Financial
 * Environmental
 ### Cryptocurrency Price Tracking
-Financial Dataset 
+Financial Datasets 
 - Cryptocurrency Prices by Market Cap - source Coin Gecko
 - Cryptocurrency Historical Prices from Yahoo Finance
 ![geck](https://github.com/jcsargis00/NFT-Research/blob/main/images/coingecko.PNG)
@@ -221,9 +221,13 @@ How does this model work? A CNN (Convolutional Neural Network) LSTM (Long-Term S
 #
 This model is used to make a predictive model for electricity.  The dataset can be imported into a Postgresql table or read in as a csv file using Pandas.  Both methods are here (https://github.com/jcsargis00/NFT-Research/blob/main/Machine%20Learning%20-%20Power%20Consumption/Power%20Consumption%20ML%20with%20db.ipynb), in addition to Pandas to Postgresql and Postgresql to Pandas examples. 
 #
-The first layer of the CNN extracts the features from the dataset.  After identifying features, the algorithm reduces the size of the data associated with each variable to minimize the size and speed up the time needed for the calculation, a mathematical function known as convoluting. For a time series dataset (time varying data), predictions of what will happen in the future can be made if it is possible to determine what happened at times in the past by using an LSTM.  The LSTM uses relevant historical information to recent information for prediction.  In other words, the LSTM framework is designed to use relevant information, not all information. LSTM networks uses the sigmoid function.
+The first layer of the CNN extracts the features from the dataset.  After identifying features, the algorithm reduces the size of the data associated with each variable to minimize the size and speed up the time needed for the calculation, a mathematical function known as convoluting. For a time series dataset (time varying data), predictions of what will happen in the future can be made if it is possible to determine what happened at times in the past by using an LSTM.  The LSTM uses relevant historical information to recent information for prediction.  In other words, the LSTM framework is designed to use relevant information, not all information. LSTM networks uses the sigmoid function.  There wasn't an easy way to do a gut check on the results without more domain expertise on power usage.
+#
+A second model was created to use machine learning to predict the future price of Bitcoin.  The LSTM algorithm from the Tensor Keras library was used again.  The Yahoo Finance dataset of historical prices for Bitcoin was used.
+#
+![mod](https://github.com/jcsargis00/NFT-Research/blob/main/images/mlmodel.PNG)
 ##### How are you training your model?
-* Approximately 75% of data was used for training, 25% of data was used for testing
+* 75% of data was used for training, 25% of data was used for testing.  1000 days of data were collected.  Every 30 days of data are used to predict the next 10 days of data in or to train the neural net.
 #
 ##### What is the model's accuracy? 
 #
@@ -288,6 +292,7 @@ There are 51 rows in this table, need to determine the top cryptocurrencies in t
 #### Machine Learning
 * SciKitLearn is the ML library to create a classifier. 
 * KMeans clustering algorithm to group similar currencies into classes.
+* Sequenital model
 * hvPlot and  Plotly  to create visualizaions in 2D and 3D as scatter plots.
 
 ### Dashboard
@@ -299,7 +304,7 @@ Aleda.store will show an alternative solution. A tutorial and glossary of NFT an
 
 https://github.com/jcsargis00/NFT-Research
 #
-Takes in data from the provisional database
+Storage of multiple tables from the NFT Research database
 Outputs label for input data, plots and graphs for dashboard.
 
 Summary and Followup Questions:
