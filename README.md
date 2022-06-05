@@ -9,13 +9,9 @@
 #
 #### Important Questions
 ##### Why do cryptocurrencies use so much energy?  
-##### Data about cryptocurrency carbon footprints can answer this question
 ##### Why does NFT minting with cryptocurrency use so much energy?  
-##### NFT minting with excessive energy consumption is linked to cryptocurrency, where energy consumption data can be analyzed
 ##### Which cryptocurrencies are used the most to mint NFTs?  
-##### This question can be answered with screen scaping crypto.com
 ##### Do the most used cryptocurrencies use a lot of energy?  
-##### Let's look at the data from energy studies by Cambridge University and others
 ##### Are cryptocurrency prices volatile? 
 ##### Can we predict future energy usage using Machine Learning?  
 #
