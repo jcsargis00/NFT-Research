@@ -99,6 +99,9 @@ Investors are expecting more volatility in ether (ETH) compared with bitcoin (BT
 #
 ![shiraz](https://github.com/jcsargis00/NFT-Research/blob/main/images/shiraz.PNG)
 #
+Ethereum founder issues warning after crash
+#
+![ethw](https://github.com/jcsargis00/NFT-Research/blob/main/images/ethfounder.PNG)
 ### Bitcoin prices are highly volatile.
 #
 ![yah](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoinyahoo.png)
@@ -185,7 +188,6 @@ Ethereum Candlestick plot
 #
 ![ethp](https://github.com/jcsargis00/NFT-Research/blob/main/images/ethcandle.PNG)
 #
-![ethw](https://github.com/jcsargis00/NFT-Research/blob/main/images/ethfounder.png)
 #### Environmental sources pertaining to energy usage
 #
 Ethereum Emission Tracker
