@@ -7,6 +7,7 @@
 ### Presentation
 #### Google Slides Summary of Project click here: https://docs.google.com/presentation/d/1KXnn1nS6dv_ujFcC03OmXkQ7zPzyPja9OF8TLDMSJjw/edit?usp=sharing
 #### Glossary - Let's start with explaining the terminology in plain English with examples
+#### Important Questions
 ##### Why do cryptocurrencies use so much energy?  
 ##### Data about cryptocurrency carbon footprints can answer this question
 ##### Why does NFT minting with cryptocurrency use so much energy?  
