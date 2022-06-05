@@ -291,9 +291,11 @@ There are 51 rows in this table, need to determine the top cryptocurrencies in t
 * KMeans clustering algorithm to group similar currencies into classes.
 * hvPlot and  Plotly  to create visualizaions in 2D and 3D as scatter plots.
 
-#### Dashboard
-In addition to using a Flask template,  D3.js will be integrated for a fully functioning and interactive dashboard. Aleda.store will show an alternative solution. A tutorial and glossary of NFT and cryptocurrency terminology will be included, with links to references.
-
+### Dashboard
+I used Dash with callback, Python, Yahoo Finance API and Plotly to create a fully functioning and interactive dashboard to display opening, closing, high and low pricing for the top 100 cryptocurrencies.  The local app is app.py
+#### The interactive dashboard is deployed on heroku:
+https://sjgnft-classless.herokuapp.com/
+Aleda.store will show an alternative solution. A tutorial and glossary of NFT and cryptocurrency terminology are included, with links to references.
 #### Github Branch location (only 1, since I am a solo team)
 
 https://github.com/jcsargis00/NFT-Research
