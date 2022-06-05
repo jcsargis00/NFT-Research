@@ -233,7 +233,9 @@ A second model was created to use machine learning to predict the future price o
 #
 To improve the model, experimentation adjusting epochs and batch_size is performed.  25 nodes and 800 epochs were input for the results in the plots below.
 ![mlacc](https://github.com/jcsargis00/NFT-Research/blob/main/images/mlacc.PNG)
-
+#
+The predicted prices versus the actual prices
+![mlacc](https://github.com/jcsargis00/NFT-Research/blob/main/images/mlpred.PNG)
 ### Github communication protocols
 I am working solo and performing all of the 4 roles.
 * Square role will be responsible for setting up the repository. This includes naming the repository and adding team members, which is just me.
