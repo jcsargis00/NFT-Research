@@ -17,9 +17,6 @@
 #
 #### Glossary - Let's start with explaining the terminology in plain English with examples
 #
-#### A brief NFT and Cryptocurrency Glossary (Ref. Investopedia https://www.investopedia.com/)
-![volt](https://github.com/jcsargis00/NFT-Research/blob/main/images/voltaire.png)
-##### Glossary
 * Beeple - Pseudonym for Mike Winkelmann, perhaps the most well known digital artist. Beeple’s Everydays: the First 5000 Days sold for $69,400,000, the current record for most expensive NFT.
 ##### Beeple's Everydays: the First 5000 Days
 ![beep](https://github.com/jcsargis00/NFT-Research/blob/main/images/everyday.PNG)
