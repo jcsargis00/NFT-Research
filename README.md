@@ -7,7 +7,7 @@
 ### Outline    
 #### Presentation
 * Google Slides Summary of Project
-![goog](https://docs.google.com/presentation/d/1KXnn1nS6dv_ujFcC03OmXkQ7zPzyPja9OF8TLDMSJjw/edit#slide=id.g12f8bb2064c_0_32)
+![goog](https://github.com/jcsargis00/NFT-Research/blob/main/NFTs%20-%20Cryptocurrency%20Energy%20Consumption%2C%20%20Environmental%20Concerns%20and%20Price%20Volatility%20Research%20Segment%202.pdf)
 * Glossary - Let's start with explaining the terminology in plain English with examples
 ##### Why do cryptocurrencies use so much energy?  
 ##### Data about cryptocurrency carbon footprints can answer this question
