@@ -139,6 +139,8 @@ Financial Dataset
 ![market](https://github.com/jcsargis00/NFT-Research/blob/main/images/crypmarketcapprice.PNG)
 #### Interactive Top Ten Cryptocurrency Price Dashboard
 ![dash](https://github.com/jcsargis00/NFT-Research/blob/main/images/dashboard.png)
+#
+To try it yourself, click here https://sjgnft-classless.herokuapp.com/
 ### Financial Data from Coin Gecko
 #### BTC Price Today
 - Bitcoin price today is $29,069.36 with a 24-hour trading volume of $34,128,213,186. 
