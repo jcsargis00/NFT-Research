@@ -16,9 +16,7 @@
 ##### Do the most used cryptocurrencies use a lot of energy?  
 ##### Let's look at the data from energy studies by Cambridge University and others
 ##### Are cryptocurrency prices volatile? 
-##### The time series data for the top 10 cryptocurrencies can be scraped from CoinGecko, CoinCapMarket and a few other sites to answer this question
 ##### Can we predict future energy usage using Machine Learning?  
-##### Historical data from UC Irine can be used in ML studies to answer this question
 #
 #### A brief NFT and Cryptocurrency Glossary (Ref. Investopedia https://www.investopedia.com/)
 ![volt](https://github.com/jcsargis00/NFT-Research/blob/main/images/voltaire.png)
