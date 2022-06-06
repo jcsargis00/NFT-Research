@@ -229,7 +229,8 @@ A second model was created to use machine learning to predict the future price o
 #
 Ten day forecast, when looking back at 10 periods.
 ![mlacc](https://github.com/jcsargis00/NFT-Research/blob/main/images/pred10.PNG)
-#### The accuracy of the model for predicting future prices is good, but checking the prices today we can see it doesn't hold up.  I wanted to try this model on Bitcoin, since the market has been very volatile, to see how machine learning would adjust.
+# 
+The accuracy of the model for predicting future prices is good, but checking the prices today we can see it doesn't hold up.  I wanted to try this model on Bitcoin, since the market has been very volatile, to see how machine learning would adjust.
 #
 ![mod](https://github.com/jcsargis00/NFT-Research/blob/main/images/mlmodel.PNG)
 #
