@@ -229,7 +229,7 @@ A second model was created to use machine learning to predict the future price o
 #
 Finally, the power consumption predictor algorithm and dataset modeling (Global Active Power, Global Reactive Power, Global Intensity and Voltage variable) were altered to try to get better accuracy.  Plots presenting the actual vs. predicted values for each time series are below. For the Global_active_power, Global_reactive_power and Global_intensity time series, LSTM has did a good job forecasting performance,  the outputs and targets were close. The LSTM forecasting performance with for the 'Voltage' time series was not as good, fluctuations were not predicted.
 #
-![pred](https://github.com/jcsargis00/NFT-Research/blob/main/images/predict.PNG)
+![pred](https://github.com/jcsargis00/NFT-Research/blob/main/images/powerpredict.PNG)
 #
 The model used four input neurons, one for each variable.  The output layer was also 4 neurons. The loss function was mse.  The root mean squared error (RMSE) was calculated using Tensor for Global Active Power, Global Reactive Power, Global Intensity and Voltage, instead of the Confusion Matrix because this algorithm is for continuous variables.
 ![rsme](https://github.com/jcsargis00/NFT-Research/blob/main/images/rsme.PNG)
