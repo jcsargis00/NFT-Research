@@ -243,6 +243,7 @@ My machine learning examples used time series, continuous variables.The confusio
 ##### Accuracy = 1.96 * RMSE 
 * Accuracy Global Active Power = 1.96 * 0.21 = 0.4116
 * Accuracy Global Reactive Power = 1.96 * 0.02 = 0.0392
+* Accuracy Global Intensity = 1.96 * 0.84 = 1.6464
 * Accuracy Voltage = 1.96 * 1.25 = 2.45
 #
 To improve the model, experimentation with adjusting epochs and batch_size is performed.  25 nodes and 800 epochs were input for the results in the plots below.
