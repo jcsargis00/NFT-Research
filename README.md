@@ -223,7 +223,13 @@ This model is used to make a predictive model for electricity.  The dataset can 
 #
 The first layer of the CNN extracts the features from the dataset.  After identifying features, the algorithm reduces the size of the data associated with each variable to minimize the size and speed up the time needed for the calculation, a mathematical function known as convoluting. For a time series dataset (time varying data), predictions of what will happen in the future can be made if it is possible to determine what happened at times in the past by using an LSTM.  The LSTM uses relevant historical information to recent information for prediction.  In other words, the LSTM framework is designed to use relevant information, not all information. LSTM networks uses the sigmoid function.  There wasn't an easy way to do a gut check on the results without more domain expertise on power usage.
 #
-A second model was created to use machine learning to predict the future price of Bitcoin.  The LSTM algorithm from the Tensor Keras library was used again.  The Yahoo Finance dataset of historical prices for Bitcoin was used.
+A second model was created to use machine learning to predict the future price of Bitcoin.  The LSTM algorithm from the Tensor Keras library was used again.  The Yahoo Finance dataset of historical prices for Bitcoin was used. The predicted prices versus the actual prices.
+#
+![mlacc](https://github.com/jcsargis00/NFT-Research/blob/main/images/mlpred.PNG)
+#
+Ten day forecast, when looking back at 10 periods.
+![mlacc](https://github.com/jcsargis00/NFT-Research/blob/main/images/pred10.PNG)
+#### The accuracy of the model for predicting future prices is good, but checking the prices today we can see it doesn't hold up.  I wanted to try this model on Bitcoin, since the market has been very volatile, to see how machine learning would adjust.
 #
 ![mod](https://github.com/jcsargis00/NFT-Research/blob/main/images/mlmodel.PNG)
 #
@@ -246,15 +252,9 @@ My machine learning examples used time series, continuous variables.The confusio
 * Accuracy Global Intensity = 1.96 * 0.84 = 1.6464
 * Accuracy Voltage = 1.96 * 1.25 = 2.45
 #
-To improve the model, experimentation with adjusting epochs and batch_size is performed.  25 nodes and 800 epochs were input for the results in the plots below.
-![mlacc](https://github.com/jcsargis00/NFT-Research/blob/main/images/powerpred.PNG)
+To improve the model, experimentation with adjusting epochs and batch_size is performed.  25 nodes and 800 epochs.
 #
-The predicted prices versus the actual prices
-![mlacc](https://github.com/jcsargis00/NFT-Research/blob/main/images/mlpred.PNG)
-#
-Ten day forecast, when looking back at 10 periods.
-![mlacc](https://github.com/jcsargis00/NFT-Research/blob/main/images/pred10.PNG)
-#### The accuracy of the model for predicting future prices is good, but checking the prices today we can see it doesn't hold up.  I wanted to try this model on Bitcoin, since the market has been very volatile, to see how machine learning would adjust.
+
 ### Github communication protocols
 I am working solo and performing all of the 4 roles.
 * Square role will be responsible for setting up the repository. This includes naming the repository and adding team members, which is just me.
