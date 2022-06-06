@@ -227,14 +227,23 @@ A second model was created to use machine learning to predict the future price o
 #
 ![mod](https://github.com/jcsargis00/NFT-Research/blob/main/images/mlmodel.PNG)
 #
-[pred](https://github.com/jcsargis00/NFT-Research/blob/main/images/power.PNG)
+Finally, the power consumption predictor algorithm and dataset (Global Active Power, Global Reactive Power, Global Intensity and Voltage variable) was altered to use regression and the sequential option giving the results below.
+![pred](https://github.com/jcsargis00/NFT-Research/blob/main/images/power.PNG)
+#
+The model used four input neuron, one for each variable.  The output layer was also 4 neurons. The loss function was mse.  The root mean squared error (RMSE) was calculated using Tensor for Global Active Power, Global Reactive Power, Global Intensity and Voltage, instead of the Confusion Matrix because this algorithm is for continuous variables.
+![rsme](https://github.com/jcsargis00/NFT-Research/blob/main/images/rsme.PNG)
 ##### How are you training your model?
-* 75% of data was used for training, 25% of data was used for testing.  1000 days of data were collected.  Every 30 days of data are used to predict the next 10 days of data in or to train the neural net.
+* It was trained for 300 epochs.  The model was Sequential.  LSTM. The model takes the first 51 values of each of the four variables.  The dataset is split into a training and test dataset.  The length of the test set is 52 to cover one year.  The length of the training set is 157.
+![train](https://github.com/jcsargis00/NFT-Research/blob/main/images/train.PNG)
 #
 ##### What is the model's accuracy? 
-My machine learning examples used time series, continuous variables.The confusion matrix suggests that you are performing classification rather than regression. RMSE and R-square are measures associated with continuous variables;
+My machine learning examples used time series, continuous variables.The confusion matrix suggests that you are performing classification rather than regression. RMSE and R-square are measures associated with continuous variables.
+##### Accuracy = 1.96 * RMSE 
+* Accuracy Global Active Power = 1.96 * 0.21 = 0.4116
+* Accuracy Global Reactive Power = 1.96 * 0.02 = 0.0392
+* Accuracy Voltage = 1.96 * 1.25 = 2.45
 #
-To improve the model, experimentation adjusting epochs and batch_size is performed.  25 nodes and 800 epochs were input for the results in the plots below.
+To improve the model, experimentation with adjusting epochs and batch_size is performed.  25 nodes and 800 epochs were input for the results in the plots below.
 ![mlacc](https://github.com/jcsargis00/NFT-Research/blob/main/images/powerpred.PNG)
 #
 The predicted prices versus the actual prices
