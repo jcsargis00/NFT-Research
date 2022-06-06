@@ -228,7 +228,8 @@ A second model was created to use machine learning to predict the future price o
 ![mod](https://github.com/jcsargis00/NFT-Research/blob/main/images/mlmodel.PNG)
 #
 Finally, the power consumption predictor algorithm and dataset (Global Active Power, Global Reactive Power, Global Intensity and Voltage variable) was altered to use regression and the sequential option giving the results below.
-![pred](https://github.com/jcsargis00/NFT-Research/blob/main/images/power.PNG)
+#
+![pred](https://github.com/jcsargis00/NFT-Research/blob/main/images/powerpred.PNG)
 #
 The model used four input neuron, one for each variable.  The output layer was also 4 neurons. The loss function was mse.  The root mean squared error (RMSE) was calculated using Tensor for Global Active Power, Global Reactive Power, Global Intensity and Voltage, instead of the Confusion Matrix because this algorithm is for continuous variables.
 ![rsme](https://github.com/jcsargis00/NFT-Research/blob/main/images/rsme.PNG)
