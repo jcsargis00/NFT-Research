@@ -237,7 +237,7 @@ The model used four input neurons, one for each variable.  The output layer was 
 * It was trained for 300 epochs.  The model was Sequential.  LSTM. The model takes the first 51 values of each of the four variables.  The dataset is split into a training and test dataset.  The length of the test set is 52 to cover one year.  The length of the training set is 157.
 ![train](https://github.com/jcsargis00/NFT-Research/blob/main/images/train.PNG)
 #
-![targ](https://github.com/jcsargis00/NFT-Research/blob/main/images/target.PNG)
+![targ](https://github.com/jcsargis00/NFT-Research/blob/main/images/rsme.PNG)
 ##### What is the model's accuracy? 
 My machine learning examples used time series, continuous variables.The confusion matrix suggests that you are performing classification rather than regression. RMSE and R-square are measures associated with continuous variables.
 ##### Accuracy = 1.96 * RMSE 
