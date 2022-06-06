@@ -199,7 +199,7 @@ https://github.com/jcsargis00/NFT-Research/tree/main/Resources/data
 ### Machine Learning application 
 Electric energy consumption prediction using Machine Learning Household Electricity consumption 
 ##### Data source https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set?resource=download
-They were measurements of electric power consumption in one household with a one-minute sampling rate over almost 4 years, from December 2006 to November 2010. Different electrical quantities and some sub-metering values were available.  Power consumption data was collected every minute.  The dataset is a multivariate time series.
+Data are measurements of electric power consumption in one household with a one-minute sampling rate over almost 4 years, from December 2006 to November 2010. Different electrical quantities and some sub-metering values were available.  Power consumption data was collected every minute.  The dataset is a multivariate time series.
 ##### Schema for the data
 - date
 - time
