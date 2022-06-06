@@ -227,7 +227,7 @@ A second model was created to use machine learning to predict the future price o
 #
 ![mod](https://github.com/jcsargis00/NFT-Research/blob/main/images/mlmodel.PNG)
 #
-Finally, the power consumption predictor algorithm and dataset (Global Active Power, Global Reactive Power, Global Intensity and Voltage variable) was altered to use regression and the sequential option giving the results below.  Plots presenting the actual vs. predicted values for all examined time series. In terms of the predictions related to the Global_active_power,Global_reactive_power and Global_intensit time series, LSTM has did a good job forecasting performance,  the outputs and targets were close. The LSTM forecasting performance with respect to the 'Voltage' time series was not as good, fluctuations were not predicted.of this non-stationary time series. 
+Finally, the power consumption predictor algorithm and dataset (Global Active Power, Global Reactive Power, Global Intensity and Voltage variable) was altered to use regression and the sequential option giving the results below.  Plots presenting the actual vs. predicted values for all examined time series. For the Global_active_power, Global_reactive_power and Global_intensity time series, LSTM has did a good job forecasting performance,  the outputs and targets were close. The LSTM forecasting performance with for the 'Voltage' time series was not as good, fluctuations were not predicted.
 #
 ![pred](https://github.com/jcsargis00/NFT-Research/blob/main/images/powerpred.PNG)
 #
