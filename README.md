@@ -227,11 +227,11 @@ A second model was created to use machine learning to predict the future price o
 #
 ![mod](https://github.com/jcsargis00/NFT-Research/blob/main/images/mlmodel.PNG)
 #
-Finally, the power consumption predictor algorithm and dataset (Global Active Power, Global Reactive Power, Global Intensity and Voltage variable) was altered to use regression and the sequential option giving the results below.
+Finally, the power consumption predictor algorithm and dataset (Global Active Power, Global Reactive Power, Global Intensity and Voltage variable) was altered to use regression and the sequential option giving the results below.  Plots presenting the actual vs. predicted values for all examined time series. In terms of the predictions related to the Global_active_power,Global_reactive_power and Global_intensit time series, LSTM has did a good job forecasting performance,  the outputs and targets were close. The LSTM forecasting performance with respect to the 'Voltage' time series was not as good, fluctuations were not predicted.of this non-stationary time series. 
 #
 ![pred](https://github.com/jcsargis00/NFT-Research/blob/main/images/powerpred.PNG)
 #
-The model used four input neuron, one for each variable.  The output layer was also 4 neurons. The loss function was mse.  The root mean squared error (RMSE) was calculated using Tensor for Global Active Power, Global Reactive Power, Global Intensity and Voltage, instead of the Confusion Matrix because this algorithm is for continuous variables.
+The model used four input neurons, one for each variable.  The output layer was also 4 neurons. The loss function was mse.  The root mean squared error (RMSE) was calculated using Tensor for Global Active Power, Global Reactive Power, Global Intensity and Voltage, instead of the Confusion Matrix because this algorithm is for continuous variables.
 ![rsme](https://github.com/jcsargis00/NFT-Research/blob/main/images/rsme.PNG)
 ##### How are you training your model?
 * It was trained for 300 epochs.  The model was Sequential.  LSTM. The model takes the first 51 values of each of the four variables.  The dataset is split into a training and test dataset.  The length of the test set is 52 to cover one year.  The length of the training set is 157.
