@@ -234,7 +234,7 @@ Finally, the power consumption predictor algorithm and dataset modeling (Global 
 The model used four input neurons, one for each variable.  The output layer was also 4 neurons. The loss function was mse.  The root mean squared error (RMSE) was calculated using Tensor for Global Active Power, Global Reactive Power, Global Intensity and Voltage, instead of the Confusion Matrix because this algorithm is for continuous variables.
 ![rsme](https://github.com/jcsargis00/NFT-Research/blob/main/images/rsme.PNG)
 ##### How are you training your model?
-* It was trained for 300 epochs.  The model was Sequential.  LSTM. The model takes the first 51 values of each of the four variables.  The dataset is split into a training and test dataset.  The length of the test set is 52 to cover one year.  The length of the training set is 157.
+* It was trained using 300 epochs.  The model was Sequential.  The algorithm was CNN LSTM. The model takes the first 51 values of each of the four variables.  The dataset is split into a training and test dataset.  The length of the test set is 52 to cover one year.  The length of the training set is 157.  
 ![train](https://github.com/jcsargis00/NFT-Research/blob/main/images/train.PNG)
 #
 ![targ](https://github.com/jcsargis00/NFT-Research/blob/main/images/rsme.PNG)
