@@ -189,8 +189,6 @@ Ethereum Emission Tracker
 #
 ![emi2](https://github.com/jcsargis00/NFT-Research/blob/main/images/ethem2.PNG)
 #
-### Electric energy consumption prediction using Machine Learning Household Electricity consumption https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set?resource=download
-#
 #### Database - Postgres and Entity Relationship Diagram
 ##### ERD 
 ![erd](https://github.com/jcsargis00/NFT-Research/blob/main/images/erd.PNG)
