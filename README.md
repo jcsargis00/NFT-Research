@@ -226,13 +226,16 @@ The first layer of the CNN extracts the features from the dataset.  After identi
 A second model was created to use machine learning to predict the future price of Bitcoin.  The LSTM algorithm from the Tensor Keras library was used again.  The Yahoo Finance dataset of historical prices for Bitcoin was used.
 #
 ![mod](https://github.com/jcsargis00/NFT-Research/blob/main/images/mlmodel.PNG)
+#
+[pred](https://github.com/jcsargis00/NFT-Research/blob/main/images/power.PNG)
 ##### How are you training your model?
 * 75% of data was used for training, 25% of data was used for testing.  1000 days of data were collected.  Every 30 days of data are used to predict the next 10 days of data in or to train the neural net.
 #
 ##### What is the model's accuracy? 
+My machine learning examples used time series, continuous variables.The confusion matrix suggests that you are performing classification rather than regression. RMSE and R-square are measures associated with continuous variables;
 #
 To improve the model, experimentation adjusting epochs and batch_size is performed.  25 nodes and 800 epochs were input for the results in the plots below.
-![mlacc](https://github.com/jcsargis00/NFT-Research/blob/main/images/mlacc.PNG)
+![mlacc](https://github.com/jcsargis00/NFT-Research/blob/main/images/powerpred.PNG)
 #
 The predicted prices versus the actual prices
 ![mlacc](https://github.com/jcsargis00/NFT-Research/blob/main/images/mlpred.PNG)
