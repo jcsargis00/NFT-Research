@@ -88,6 +88,8 @@ Does Ethereum use a lot of energy?
 #
 
 ![rank](https://github.com/jcsargis00/NFT-Research/blob/main/images/userrankcountry.PNG)
+#
+![bitcar](https://github.com/jcsargis00/NFT-Research/blob/main/images/bitcoincarbon.PNG)
 ### Ethereum prices are highly volatile and have been for quite some time.
 'Potential big move' - but not necessarily up - Ref. Coindesk 9/14/2021
 Investors are expecting more volatility in ether (ETH) compared with bitcoin (BTC), according to a key metric, with the measure of risk at a six-month high amid a boom in decentralized finance (DeFi).
