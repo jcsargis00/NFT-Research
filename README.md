@@ -306,9 +306,10 @@ Fields of crypto pricing  model
 ![pri](https://github.com/jcsargis00/NFT-Research/blob/main/images/cryptopricetable.PNG)
 #### Using yahoo finance model from here.  Pull in pricing by cryptocurrency ticker name:
 ![yah](https://github.com/jcsargis00/NFT-Research/blob/main/images/yahoo.PNG)
-#### Select top 6-10 cryptocurrencies used to make NFT's from this chart.
+#### Find top cryptocurrencies used to make NFT's from this chart from cryptocurrency web sites.
+To determine the top cryptocurrencies in the NFT marketplace analzye the information on this website
+#
 ![market](https://github.com/jcsargis00/NFT-Research/blob/main/images/cryptowissernftmarket.PNG)
-Too determine the top cryptocurrencies in the NFT marketplace analzye the information on this website https://www.cryptowisser.com/nft-marketplaces/)
 #### Machine Learning
 * SciKitLearn is the ML library to create a classifier. 
 * KMeans clustering algorithm to group similar currencies into classes.
