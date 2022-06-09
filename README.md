@@ -333,6 +333,7 @@ Summary and Followup Questions:
 * Can we predict how much energy will be used in the  future using machine learning?  Yes
 * Is this an environmental concern?  Yes
 * If it is, is there an eco friendly solution for NFT minting without cryptocurrency?
+#
 ![nft](https://github.com/jcsargis00/NFT-Research/blob/main/images/nftcrypto.PNG)
 #
 #### Blockchain and NFTs were invented before Ethereum, they are not dependent on using it.
