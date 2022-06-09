@@ -316,7 +316,7 @@ Too determine the top cryptocurrencies in the NFT marketplace analzye the inform
 * hvPlot and  Plotly  to create visualizaions in 2D and 3D as scatter plots.
 
 ### Dashboard
-I used Dash with callback, Python, Yahoo Finance API and Plotly to create a fully functioning and interactive dashboard to display opening, closing, high and low pricing for the top 100 cryptocurrencies.  The local app is app.py  Screen scrapers for the top ten cryptocurrencies can be found in this directory (https://github.com/jcsargis00/NFT-Research/tree/main/Crypto%20Scrapers%20-%20Top%20Ten%20Coins)
+I used Dash with callback, Python, Yahoo Finance API and Plotly to create a fully functioning and interactive dashboard to display opening, closing, high and low pricing for the top 100 cryptocurrencies.  The local app is app.py  Screen scrapers for the top ten cryptocurrencies can be found in the CryptoScraper Top Ten Coins github directory.
 #### The interactive dashboard is deployed on heroku:
 https://sjgnft-classless.herokuapp.com/
 #
