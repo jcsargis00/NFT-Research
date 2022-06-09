@@ -334,7 +334,7 @@ Summary and Followup Questions:
 * Is this an environmental concern?  Yes
 * If it is, is there an eco friendly solution for NFT minting without cryptocurrency?
 #
-![nft1](https://github.com/jcsargis00/NFT-Research/blob/main/images/nftcrypto.PNG)
+![nft1](https://github.com/jcsargis00/NFT-Research/blob/main/images/nftcrypto.png)
 #
 #### Blockchain and NFTs were invented before Ethereum, they are not dependent on using it.
 ![nft2](https://github.com/jcsargis00/NFT-Research/blob/main/images/block.PNG)
