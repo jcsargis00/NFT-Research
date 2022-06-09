@@ -33,7 +33,7 @@
 ###### CryptoPunk NFTs
 ![punk](https://github.com/jcsargis00/NFT-Research/blob/main/images/punks.PNG)
 * Digital Wallet (or electronic wallet) - a financial transaction application that runs on mobile devices. It securely stores your payment information and passwords. These applications allow you to pay when you're shopping using your device so that you don't need to carry your cards around. You enter and store your credit card, debit card, or bank account information and can then use your device to pay for purchases.
-* Disaster girl - an NFT of Zoe Roth, at age 4, in front of a burning house and a firetruck. She's looking back at the camera laughing, leaving the viewer to suspect she had something to do with this disaster. in reality, the fire scene was part of a training exercise for firefighters in Mebane, N.C., near where Zoë and her father, Dave Roth, lived.  The NFT launched many memes and sold for $500k to 3F Music, a music studio based in Dubai, United Arab Emirates.
+* Disaster girl - an NFT of Zoe Roth, at age 4, in front of a burning house and a firetruck. She's looking back at the camera laughing, leaving the viewer to suspect she had something to do with this disaster.  In reality, the fire scene was part of a training exercise for firefighters in Mebane, N.C., near where Zoë and her father, Dave Roth, lived.  The NFT launched many memes and sold for $500k to 3F Music, a music studio based in Dubai, United Arab Emirates.
 ![dis](https://github.com/jcsargis00/NFT-Research/blob/main/images/disaster.PNG)
 * Discord - An instant messaging platform and the go-to place for discussing NFTs.
 * ERC-721 - A token standard that allows for the creation of unique, non-fungible tokens. It differs from ERC-20, for example, which is used to mint fungible tokens.
@@ -335,7 +335,7 @@ Summary and Followup Questions:
 * If it is, is there an eco friendly solution for NFT minting without cryptocurrency?
 ![nft](https://github.com/jcsargis00/NFT-Research/blob/main/images/nftcrypto.PNG)
 #
-##### Blockchain and NFTs were invented before Ethereum, they are not dependent on using it.
+#### Blockchain and NFTs were invented before Ethereum, they are not dependent on using it.
 ![nft](https://github.com/jcsargis00/NFT-Research/blob/main/images/block.PNG)
 # Aleda.store is for minting, selling and gifting green NFTs.  It's blockchain does not use cryptocurrency.
 ![aleda](https://github.com/jcsargis00/NFT-Research/blob/main/images/aleda.PNG)
