@@ -308,10 +308,7 @@ Fields of crypto pricing  model
 ![yah](https://github.com/jcsargis00/NFT-Research/blob/main/images/yahoo.PNG)
 #### Select top 6-10 cryptocurrencies used to make NFT's from this chart.
 ![market](https://github.com/jcsargis00/NFT-Research/blob/main/images/cryptowissernftmarket.PNG)
-There are 51 rows in this table, need to determine the top cryptocurrencies in the NFT marketplace from this information (website https://www.cryptowisser.com/nft-marketplaces/)
-
-
-
+Too determine the top cryptocurrencies in the NFT marketplace analzye the information on this website https://www.cryptowisser.com/nft-marketplaces/)
 #### Machine Learning
 * SciKitLearn is the ML library to create a classifier. 
 * KMeans clustering algorithm to group similar currencies into classes.
@@ -322,16 +319,22 @@ There are 51 rows in this table, need to determine the top cryptocurrencies in t
 I used Dash with callback, Python, Yahoo Finance API and Plotly to create a fully functioning and interactive dashboard to display opening, closing, high and low pricing for the top 100 cryptocurrencies.  The local app is app.py  Screen scrapers for the top ten cryptocurrencies can be found in this directory (https://github.com/jcsargis00/NFT-Research/tree/main/Crypto%20Scrapers%20-%20Top%20Ten%20Coins)
 #### The interactive dashboard is deployed on heroku:
 https://sjgnft-classless.herokuapp.com/
-Aleda.store will show an alternative solution. A tutorial and glossary of NFT and cryptocurrency terminology are included, with links to references.
+Aleda.store shows an alternative solution. A tutorial and glossary of NFT and cryptocurrency terminology are included, with links to references.
 #### Github Branch location (only 1, since I am a solo team)
-
 https://github.com/jcsargis00/NFT-Research
 #
+#(https://github.com/jcsargis00/NFT-Research/blob/main/images/cryptopricetable.PNG)
 Storage of multiple tables from the NFT Research database
 Outputs label for input data, plots and graphs for dashboard.
-
+![]
 Summary and Followup Questions:
-* Is energy used related to cryptocurrency price fluctuations?
-* Can we predict how much energy will be used in the  future using machine learning?
-* Is this an environmental concern?
+* Is energy used related to cryptocurrency price fluctuations?  Yes
+* Can we predict how much energy will be used in the  future using machine learning?  Yes
+* Is this an environmental concern?  Yes
 * If it is, is there an eco friendly solution for NFT minting without cryptocurrency?
+![nft](https://github.com/jcsargis00/NFT-Research/blob/main/images/nftcrypto.PNG)
+#
+##### Blockchain and NFTs were invented before Ethereum, they are not dependent on using it.
+![nft](https://github.com/jcsargis00/NFT-Research/blob/main/images/block.PNG)
+# Aleda.store is for minting, selling and gifting green NFTs.  It's blockchain does not use cryptocurrency.
+![aleda](https://github.com/jcsargis00/NFT-Research/blob/main/images/aleda.PNG)
