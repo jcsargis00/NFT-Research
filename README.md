@@ -334,9 +334,9 @@ Summary and Followup Questions:
 * Is this an environmental concern?  Yes
 * If it is, is there an eco friendly solution for NFT minting without cryptocurrency?
 #
-![nft](https://github.com/jcsargis00/NFT-Research/blob/main/images/nftcrypto.PNG)
+![nft1](https://github.com/jcsargis00/NFT-Research/blob/main/images/nftcrypto.PNG)
 #
 #### Blockchain and NFTs were invented before Ethereum, they are not dependent on using it.
-![nft](https://github.com/jcsargis00/NFT-Research/blob/main/images/block.png)
+![nft2](https://github.com/jcsargis00/NFT-Research/blob/main/images/block.PNG)
 #### Aleda.store is for minting, selling and gifting green NFTs.  Aleda.store does not use cryptocurrency.
 ![aleda](https://github.com/jcsargis00/NFT-Research/blob/main/images/aleda.PNG)
