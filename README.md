@@ -323,10 +323,9 @@ Aleda.store shows an alternative solution. A tutorial and glossary of NFT and cr
 #### Github Branch location (only 1, since I am a solo team)
 https://github.com/jcsargis00/NFT-Research
 #
-#(https://github.com/jcsargis00/NFT-Research/blob/main/images/cryptopricetable.PNG)
 Storage of multiple tables from the NFT Research database
 Outputs label for input data, plots and graphs for dashboard.
-![]
+####
 Summary and Followup Questions:
 * Is energy used related to cryptocurrency price fluctuations?  Yes
 * Can we predict how much energy will be used in the  future using machine learning?  Yes
