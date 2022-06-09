@@ -337,5 +337,5 @@ Summary and Followup Questions:
 #
 #### Blockchain and NFTs were invented before Ethereum, they are not dependent on using it.
 ![nft](https://github.com/jcsargis00/NFT-Research/blob/main/images/block.PNG)
-# Aleda.store is for minting, selling and gifting green NFTs.  It's blockchain does not use cryptocurrency.
+#### Aleda.store is for minting, selling and gifting green NFTs.  It's blockchain does not use cryptocurrency.
 ![aleda](https://github.com/jcsargis00/NFT-Research/blob/main/images/aleda.PNG)
